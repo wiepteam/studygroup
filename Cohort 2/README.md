@@ -14,7 +14,7 @@ We are thrilled to announce the launch of our Study Group Cohort 2, **starting o
 
 ### How to Join
 
-* **Register**: Sign up through our official registration form [here].
+* **Register**: Sign up through our official registration form [here](https://forms.gle/QHzLKjX1Mv9scUpk8).
 
 * **Prepare**: Once registered, you'll receive a welcome email with all the necessary details to get started.
 
@@ -28,5 +28,5 @@ We are thrilled to announce the launch of our Study Group Cohort 2, **starting o
 * **Grow**: Enhance your skills and knowledge to equip you better to contribute to the Ethereum community and beyond.
 Don't miss this opportunity to be part of a vibrant and supportive learning community. Mark your calendars for August 19 and get ready to dive into the world of Ethereum with Study Group Cohort 2!
 
-For more information join [Discord](https://discord.gg/JvEVfKBY6W) and to register, fill up this [form]. We look forward to seeing you there!
+For more information join [Discord](https://discord.gg/JvEVfKBY6W) and to register, fill up this [form](https://forms.gle/QHzLKjX1Mv9scUpk8). We look forward to seeing you there!
 
