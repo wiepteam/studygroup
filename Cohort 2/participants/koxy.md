@@ -1,6 +1,6 @@
 # Introduction
 
-Hey everyone, I am Lena, host of the second cohort of the **Women in Ethereum Protocol**.
+Hey everyone, I am Koxy, a member of the second cohort of the **Women in Ethereum Protocol**.
 
 These are my twitter and GitHub handles:
 
