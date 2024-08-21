@@ -1,6 +1,6 @@
-# Study Group
+# WiEP Study Group
 
-A study group initiated by Women in Ethereum Protocol to increase contribution to the Ethereum ecosystem.
+A study group initiated by Women in Ethereum Protocol to increase contribution to the Ethereum ecosystem. Learn more about our group with [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook).
 
 This is not a standard format study group where we will study but instead we will focus on doing more hands-on stuff in pairs.
 
