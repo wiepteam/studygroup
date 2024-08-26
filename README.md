@@ -6,6 +6,6 @@ This is not a standard format study group where we will study but instead we wil
 
 Check out the different cohorts to learn more about the participants and the issues that they have resolved.
 
-This study group is focused on more advanced developers with at least 1 year coding experience.
+This study group is focused on more advanced developers with at least 1 year coding experience. Learn more in the [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook#Membership)
 
 To join, please sign up by filling out this [form](https://forms.gle/LU2JP93m2Qi38A9k7)

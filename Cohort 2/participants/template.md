@@ -11,3 +11,7 @@ These are my twitter and GitHub handles:
 - Coding languages that I am proficient in: Solidity, Python, SQL
 - Coding languages that I am beginner in : Rust, C#, C++
 - How I am planning to support WiEP: Study group host, Moderator in Discord, Promote the Study Group, solving issues
+
+## Updates | Notes
+
+First week we had a presentation about the setup of the study group and distributed first issues.
