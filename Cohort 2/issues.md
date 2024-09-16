@@ -3,11 +3,10 @@
 | Issue No                                                      | Team                              | Status                                                                                                                                    |
 | ------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [#5](https://github.com/wiepteam/studygroup/issues/5)         | Lena & Gyan                       | test. CLOSED                                                                                                                              |
-| [#7347](https://github.com/hyperledger/besu/issues/7347)      | Netta & Crystal                   | Netta and Crystal will take a look at the issue. Fetch and merge the changes.                                      |
-| [#5962](https://github.com/hyperledger/besu/issues/5962)      | vaiz & hema & Shubanshi           | was already solved by Preeti & Netta                                                                   |
+| [#7347](https://github.com/hyperledger/besu/issues/7347)      | Preeti                  | CLOSED                                      |
+| [#5962](https://github.com/hyperledger/besu/issues/5962)      | vaiz & hema & Shubanshi | was already solved. will share a new issue.                                                               |
 | [#7348](https://github.com/hyperledger/besu/issues/7348)      | asli & Huda                       | Was blocked by 7347 and now it is unblocked.                                                                |
-| [#5606](https://github.com/Consensys/teku/issues/5606)        | Katya & Mercy                     | Split issues into 2, working on fixing and corrections. 
-Deadline: Potentially this week. |
+| [#5606](https://github.com/Consensys/teku/issues/5606)        | Katya & Mercy                     | CLOSED |
 | [#5969](https://github.com/hyperledger/besu/issues/5969)      | Ijay & Rute                       | started, not present in Session 2                                                                                                         |
 | [#1679](https://github.com/hyperledger/besu-docs/issues/1679) | Kadhija                           | started , not present in Session 2                                                                                                        |
 | [#6992](https://github.com/Consensys/teku/issues/6992)        | Mearaf & Euphemiah                | started , not present in Session 2                                                                                                        |
