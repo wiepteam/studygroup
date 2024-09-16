@@ -14,12 +14,16 @@
 
 ## Repositories of Cohort 2
 
-- [Besu]()
+- [Besu](https://github.com/hyperledger/besu/labels/good%20first%20issue)
   - [Intro](https://docs.google.com/presentation/d/1oBu54-LxjCPjjL7ovlg0hhOHds_Zmhjt1c4LTQxJy58/)
   - [Main Repository - good first issues](https://github.com/hyperledger/besu/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+no%3Aassignee)
   - [docs - good first issues](https://github.com/hyperledger/besu-docs/issues)
   - [Contributing Guideline](https://github.com/hyperledger/besu/blob/725dcf1c872326c5cfa19d17e113ef9cd214472a/CONTRIBUTING.md)
-- [Teku]
+- [Teku]()
   - [Intro](https://docs.google.com/presentation/d/1wuf2DXsKkCaBHzGWhwDpalaRi3x2Qclu6-HeGXWt3I8/edit?usp=drive_link)
   - [Main Repository - good first issues](https://github.com/Consensys/teku/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue+%3Araising_hand%3A%22)
   - [Contributing Guideline](https://github.com/Consensys/teku/blob/dc14fe6c48097a185e72579a420e90407c69df9f/CONTRIBUTING.md)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [reth](https://github.com/paradigmxyz/reth/labels/D-good-first-issue)
+  - Rust Ethereuem
+- [Good tracker for first good issues](https://onchainsquad.com/oss/)
