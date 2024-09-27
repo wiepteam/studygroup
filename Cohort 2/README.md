@@ -1,7 +1,9 @@
 # Study Group Cohort 2 
 
 ## Announcement: Launching on August 19!
-We are thrilled to announce the launch of our Study Group Cohort 2, **starting on August 19**! This initiative, led by the ***Women in Ethereum Protocol (WiEP)***, is designed to foster learning, collaboration, and growth within the Ethereum community. Whether you are a beginner or an experienced professional, this cohort offers something valuable for everyone. Learn more about our group with [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook). 
+We are thrilled to announce the launch of our Study Group Cohort 2, **starting on August 19**! This initiative, led by the ***Women in Ethereum Protocol (WiEP)***, is designed to foster learning, collaboration, and growth within the Ethereum community. Whether you are a beginner or an experienced professional, this cohort offers something valuable for everyone. You can learn more about our group with [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook). 
+
+Update: Recording from the launch meeting can be found [here](https://youtu.be/GOh9Befu64c). 
 
 ### What to Expect
 * **Structured Learning**: An opportunity to look into various Issues at Ethereum GitHub Repositories, and advanced topics with a well-organized curriculum.
