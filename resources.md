@@ -1,73 +1,59 @@
 # Resources
 
-- EIP templates - [The description of the EIP format](https://eips.ethereum.org/EIPS/eip-1#eip-formats-and-templates)
+A curated list of resources to help you learn more about the Ethereum protocol, its ongoing developments, and the wider ecosystem.
 
-## Linting
+## General Ethereum Resources
 
-- https://eips.ethereum.org/EIPS/eip-1#eip-formats-and-templates
-- https://docs.rs/comrak/latest/comrak/nodes/struct.Ast.html - Ast
-- https://en.wikipedia.org/wiki/Visitor_pattern
+- **[Ethereum.org](https://ethereum.org/)**  
+  The official Ethereum website. Includes documentation, learning resources, and community information.
 
-Each lint is a struct that implements an interface Lint.
-**fn find_resources()** - contents of different files: checking the file exists, checking the status of another proposal. Most of the time you don’t need it.
-**fn lint()** - generate the errors for the text you’re checking.
+- **[Ethereum Foundation Blog](https://blog.ethereum.org/)**  
+  Updates and insights on the Ethereum ecosystem.
 
-Markdown is represented as a tree of nodes. Each node can have children.
+- **[Ethereum Roadmap](https://ethereum.org/en/roadmap/)**  
+  A comprehensive overview of Ethereum’s major upgrades and expected milestones.
 
-We use [Ast](https://docs.rs/comrak/latest/comrak/nodes/struct.Ast.html) to get the line number of the code where the error happened.
+- **[EIPs (Ethereum Improvement Proposals)](https://eips.ethereum.org/)**  
+  Proposals that describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
-### Run Lint
+## Protocol Specifications and Clients
 
-Download ethereum/eips or create your \*.md file with eip. Run lint on this file:
-eipw (your-branch) > cargo run -- <path-to-eip-folder>/EIPs/EIPS/eip-1485.md
+- **[Execution Specs](https://github.com/ethereum/execution-specs)**  
+  Technical specifications and reference implementations for Ethereum’s execution layer.
 
-## Tests
+- **[Consensus Specs](https://github.com/ethereum/consensus-specs)**  
+  Official specifications for Ethereum’s consensus layer.
 
-**eipw/eipw-lint/tests - integration tests**, they can only see public interface, emulating people using your library. They can’t see private members of the modules.
+### Execution Clients
 
-**Unit tests** internal to your library. #[cfg(test)] in the code.
+- **[Geth (Go-Ethereum)](https://github.com/ethereum/go-ethereum)**  
+- **[Nethermind](https://github.com/NethermindEth/nethermind)**  
+- **[Erigon](https://github.com/ledgerwatch/erigon)**  
+- **[Besu](https://github.com/hyperledger/besu)**
+- **[Reth](https://github.com/paradigmxyz/reth)**
 
-For this repo we use mostly integration tests because the lints are externally visible.
+### Consensus Clients
 
-Specific EIPW tests:
+- **[Lighthouse](https://github.com/sigp/lighthouse)**  
+- **[Prysm](https://github.com/prysmaticlabs/prysm)**  
+- **[Teku](https://github.com/ConsenSys/teku)**  
+- **[Nimbus](https://github.com/status-im/nimbus-eth2)**  
+- **[Lodestar](https://github.com/ChainSafe/lodestar)**  
+- **[Grandine](https://github.com/grandinetech/grandine)**
 
-- Regular integration tests
-- Inherited from an older project (eipv)
+## Community and Research
 
-Run tests (runs both integration and unit tests):
+- **[ETH Magicians](https://ethereum-magicians.org/)**  
+  A community forum for technical discussions, EIP reviews, and ecosystem-wide collaboration.
 
-```
-> cargo test
-```
+- **[Ethresear.ch](https://ethresear.ch/)**  
+  A research forum dedicated to cryptography, protocol design, and advanced Ethereum topics.
 
-Command to only run the test for your specific file
-In the eipw-lint folder run:
-eipw/eipw-lint/tests> cargo test --test <test_name>
+- **[Ethereum Protocol Fellowship Wiki](https://epf.wiki/)**  
+  A resource hub for the Ethereum Protocol Fellowship, featuring guides, research, and development references.
 
-Example:
+- **[Ethereum Cat Herders](https://www.ethcatherders.com/)**  
+  A nonprofit supporting Ethereum through EIP coordination, education, and community resources.
 
-```
-eipw/eipw-lint/tests> cargo test --test lint_markdown_link_first
-```
-
-! Don’t use “.rs” extension of your test file
-
-You can also use VSCode extensions to run tests. Press “Run Test” in the code for a specific test. Press “Debug” for debugging. Extensions installation is below.
-
-## Setting up VSCode Rust Extensions
-
-https://gigi.nullneuron.net/gigilabs/getting-started-with-rust-using-vs-code/
-
-## GitHub
-
-Get started: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
-
-- Cherry pick:
-  https://www.youtube.com/watch?v=skPB3ZRYyL4
-- Creating fork, pull request:
-  https://www.youtube.com/watch?v=8A4TsoXJOs8
-
-Games to learn:
-
-- https://ohmygit.org/
-- https://dev.to/pradumnasaraf/want-to-learn-about-git-and-github-in-a-more-fun-way-4o5f
+- **[Eth2Book](https://eth2book.info/)**  
+  An open-source guide to the Ethereum Consensus Layer architecture and its components.
