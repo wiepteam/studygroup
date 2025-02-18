@@ -4,7 +4,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 
 | Week    | Date (Thu, 4pm UTC) | Agenda                     | Recording | Assignment |
 |---------|---------------------|----------------------------|-----------|------------|
-| Week 1  | Feb 13, 2025        | [Opening ceremony](https://github.com/wiepteam/studygroup/issues/24)     |Week 1 recording](https://youtu.be/XWVgnPFugbQ)           |[Week 1 Assignment](2-progress-tracker.md#week-1-assignment)            |
+| Week 1  | Feb 13, 2025        | [Opening ceremony](https://github.com/wiepteam/studygroup/issues/24)     |[Week 1 recording](https://youtu.be/XWVgnPFugbQ)           |[Week 1 Assignment](2-progress-tracker.md#week-1-assignment)            |
 | Week 2  | Feb 20, 2025        | [Office Hours](https://github.com/wiepteam/studygroup/issues/25)    |           |            |
 | Week 3  | Feb 27, 2025        | Standup                    |           |            |
 | Week 4  | Mar 06, 2025        | Office Hours               |           |            |
