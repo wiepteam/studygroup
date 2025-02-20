@@ -2,8 +2,11 @@
 
 This document tracks the progress of Cohort 3 participants. Use this tracker to monitor your issue assignments, log weekly status updates, and track final outcomes.
 
-- [Progress Tracker Table](#progress-tracker-table)
-- [Home Assignments](#home-assignments)
+- [Following the Results](#following-the-results)
+  - [Progress Tracker Table](#progress-tracker-table)
+  - [Home Assignments](#home-assignments)
+    - [Week 1 Assignment](#week-1-assignment)
+    - [Week 2 Assignment](#week-2-assignment)
 
 ## Progress Tracker Table
 
@@ -22,14 +25,17 @@ Follow these guidelines when updating the progress tracker table:
 |  Glory   |         |         |         |         |
 |  Lada    |         |         |         |         |
 |  Loisa   |         |         |         |         |
-|  Mercy   |         |         |         |         |
+|  [Mercy](https://github.com/bomanaps)   |         |         |         |         |
 |  Naomi   |         |         |         |         |
 |  Sasha   |         |         |         |         |
 
 ## Home Assignments
 
-- [Week 1 Assignment](#week-1-assignment)
-- [Week 2 Assignment](#week-2-assignment)
+- [Following the Results](#following-the-results)
+  - [Progress Tracker Table](#progress-tracker-table)
+  - [Home Assignments](#home-assignments)
+    - [Week 1 Assignment](#week-1-assignment)
+    - [Week 2 Assignment](#week-2-assignment)
 
 ### Week 1 Assignment
 
