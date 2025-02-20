@@ -23,7 +23,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Lada    |         |         |         |         |
 |  Loisa   |         |         |         |         |
 |  Mercy   |         |         |         |         |
-|  Naomi   |         |         |         |         |
+|  Naomi(https://github.com/naynayu)   |         |         |         |         |
 |  Sasha   |         |         |         |         |
 
 ## Home Assignments
