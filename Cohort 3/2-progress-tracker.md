@@ -25,7 +25,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Loisa      |         |         |         |         |
 |  Mercy      |         |         |         |         |
 |  Naomi      |         |         |         |         |
-|  [Odinga] (https://github.com/odingaval)     |         |         |         |         |
+|  [Odinga](https://github.com/odingaval)     |         |         |         |         |
 |  Sasha      |         |         |         |         |
 |  Victoria   |         |         |         |         |
 
