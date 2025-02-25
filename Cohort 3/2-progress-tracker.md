@@ -19,13 +19,13 @@ Follow these guidelines when updating the progress tracker table:
 |------------------------------------------------------|------|-------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
-|  Doreen     |         |         |         |         |
+|  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
 |  Loisa      |         |         |         |         |
 |  Mercy      |         |         |         |         |
 |  Naomi      |         |         |         |         |
-|  Odinga     |         |         |         |         |
+|  [Odinga](https://github.com/odingaval)     |         |         |         |         |
 |  Sasha      |         |         |         |         |
 |  Victoria   |         |         |         |         |
 
