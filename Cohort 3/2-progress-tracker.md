@@ -22,7 +22,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Doreen     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
-|  [Loisa](https://github.com/lolosaisa)    |2        |#6832     | Researching the issue   |Learning more about typescript    |
+|  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  Mercy      |         |         |         |         |
 |  Naomi      |         |         |         |         |
 |  Odinga     |         |         |         |         |
