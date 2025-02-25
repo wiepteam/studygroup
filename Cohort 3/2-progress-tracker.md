@@ -22,7 +22,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
-|  Loisa      |         |         |         |         |
+|  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  Mercy      |         |         |         |         |
 |  Naomi      |         |         |         |         |
 |  [Odinga](https://github.com/odingaval)     |         |         |         |         |
