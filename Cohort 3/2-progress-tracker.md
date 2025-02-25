@@ -18,7 +18,7 @@ Follow these guidelines when updating the progress tracker table:
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
-|  Cheryl     |         |         |         |         |
+|  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  Doreen     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
