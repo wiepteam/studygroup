@@ -20,7 +20,7 @@ Follow these guidelines when updating the progress tracker table:
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
-|  Glory      |         |         |         |         |
+|  [Glory](https://github.com/emmaglorypraise)      |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
