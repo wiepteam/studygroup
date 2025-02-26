@@ -28,6 +28,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Odinga     |         |         |         |         |
 |  Sasha      |         |         |         |         |
 |  Victoria   |         |         |         |         |
+|  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
 
 ## Home Assignments
 
