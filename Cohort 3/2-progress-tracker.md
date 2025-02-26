@@ -28,7 +28,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |         |         |         |         |
 |  [Odinga](https://github.com/odingaval)     |         |         |         |         |
 |  Sasha      |         |         |         |         |
-|  Victoria   |         |         |         |         |
+|  [Victoria](https://github.com/VictoriaAde)   |         |         |         |         |
 
 ## Home Assignments
 
