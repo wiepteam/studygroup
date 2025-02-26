@@ -21,7 +21,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
 |  Glory      |         |         |         |         |
-|  Lada       |         |         |         |         |
+| [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
 |  [Naomi](https://github.com/naynayu)   |         |         |         |         |
