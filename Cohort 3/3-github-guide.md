@@ -91,6 +91,7 @@ At the start of each new week (after your previous PR merges), update your local
 git checkout main
 git fetch upstream
 git merge upstream/main
+git push origin main
 ```
 
 &#x1F4CC; You may have to resolve conflicts after the merge. Conflict resolution depends on your IDE. To master merge, watch [this video](https://www.youtube.com/watch?v=Sqsz1-o7nXk&t=373s). You can also look for guides specific to your IDE or reach out to us on [Discord](https://discord.gg/JvEVfKBY6W) for support.
