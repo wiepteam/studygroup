@@ -18,17 +18,18 @@ Follow these guidelines when updating the progress tracker table:
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
-|  Cheryl     |         |         |         |         |
-|  Doreen     |         |         |         |         |
-|  Glory      |         |         |         |         |
-|  Lada       |         |         |         |         |
-|  Loisa      |         |         |         |         |
-|  Mercy      |         |         |         |         |
-|  Naomi      |         |         |         |         |
-|  Odinga     |         |         |         |         |
-|  Sasha      |         |         |         |         |
-|  Victoria   |         |         |         |         |
 |  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
+|  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
+|  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
+|  [Glory](https://github.com/emmaglorypraise)      |         |         |         |         |
+|  Ijay   |         |         |         |         |
+| [Lada](https://github.com/hara-desu)             |         |         |         |         |
+|  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
+|  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
+|  [Naomi](https://github.com/naynayu)   |         |         |         |         |
+|  [Odinga](https://github.com/odingaval)     |         |         |         |         |
+|  Sasha      |         |         |         |         |
+|  [Victoria](https://github.com/VictoriaAde)   |         |         |         |         |
 
 ## Home Assignments
 
