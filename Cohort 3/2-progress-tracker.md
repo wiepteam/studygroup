@@ -17,7 +17,7 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 3 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)      |                 |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
@@ -36,6 +36,7 @@ Follow these guidelines when updating the progress tracker table:
 
 - [Week 1 Assignment](#week-1-assignment)
 - [Week 2 Assignment](#week-2-assignment)
+- [Week 3 Assignment](#week-3-assignment)
 
 ### Week 1 Assignment
 
@@ -54,3 +55,11 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Open a PR titled `Your-Name: Cohort 3 Week 2 Assignment`.
 - Share the link to your PR in the Discord thread for the Week 2 assignment.
 - Start exploring issues. If you choose an issue, assign it to yourself in the issue comments and share the link to the issue in the Week 2 Discord thread.
+
+### Week 3 Assignment
+- Choose the [issue](./4-issues-guide.md) you will be working on.
+- Assign yourself to the issue by leaving a comment on it.
+- In the Progress Table, add `Week 3` and a link to your issue, following the pattern in the first row.
+- Open a PR titled `Your-Name: Cohort 3 Week 3 Assignment`.
+- Share the link to your PR in the Week 3 Assignment post in the #assignments channel.
+- Start working on your issue.
