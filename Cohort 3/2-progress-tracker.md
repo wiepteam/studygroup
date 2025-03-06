@@ -2,8 +2,12 @@
 
 This document tracks the progress of Cohort 3 participants. Use this tracker to monitor your issue assignments, log weekly status updates, and track final outcomes.
 
-- [Progress Tracker Table](#progress-tracker-table)
-- [Home Assignments](#home-assignments)
+- [Following the Results](#following-the-results)
+  - [Progress Tracker Table](#progress-tracker-table)
+  - [Home Assignments](#home-assignments)
+    - [Week 1 Assignment](#week-1-assignment)
+    - [Week 2 Assignment](#week-2-assignment)
+    - [Week 3 Assignment](#week-3-assignment)
 
 ## Progress Tracker Table
 
@@ -26,7 +30,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
-|  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
+|  [Mercy](https://github.com/bomanaps)      |         | [Lodestar #5902](https://github.com/ChainSafe/lodestar/issues/5902)        |  In Progress       |         |
 |  [Naomi](https://github.com/naynayu)   |         |         |         |         |
 |  [Odinga](https://github.com/odingaval)     |         |         |         |         |
 |  Sasha      |         |         |         |         |
@@ -34,9 +38,12 @@ Follow these guidelines when updating the progress tracker table:
 
 ## Home Assignments
 
-- [Week 1 Assignment](#week-1-assignment)
-- [Week 2 Assignment](#week-2-assignment)
-- [Week 3 Assignment](#week-3-assignment)
+- [Following the Results](#following-the-results)
+  - [Progress Tracker Table](#progress-tracker-table)
+  - [Home Assignments](#home-assignments)
+    - [Week 1 Assignment](#week-1-assignment)
+    - [Week 2 Assignment](#week-2-assignment)
+    - [Week 3 Assignment](#week-3-assignment)
 
 ### Week 1 Assignment
 
