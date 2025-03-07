@@ -22,7 +22,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
-|  [Glory](https://github.com/emmaglorypraise)      |         |         |         |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
