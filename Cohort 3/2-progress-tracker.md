@@ -31,13 +31,17 @@ Follow these guidelines when updating the progress tracker table:
 |  [Odinga](https://github.com/odingaval)     |         |         |         |         |
 |  Sasha      |         |         |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
+|  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 
 ## Home Assignments
 
-- [Week 1 Assignment](#week-1-assignment)
-- [Week 2 Assignment](#week-2-assignment)
-- [Week 3 Assignment](#week-3-assignment)
-- [Week 4 Assignment](#week-4-assignment)
+- [Following the Results](#following-the-results)
+  - [Progress Tracker Table](#progress-tracker-table)
+  - [Home Assignments](#home-assignments)
+    - [Week 1 Assignment](#week-1-assignment)
+    - [Week 2 Assignment](#week-2-assignment)
+    - [Week 3 Assignment](#week-3-assignment)
+    - [Week 4 Assignment](#week-4-assignment)
 
 ### Week 1 Assignment
 
