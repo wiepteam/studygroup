@@ -36,14 +36,6 @@ Follow these guidelines when updating the progress tracker table:
 
 ## Home Assignments
 
-- [Following the Results](#following-the-results)
-  - [Progress Tracker Table](#progress-tracker-table)
-  - [Home Assignments](#home-assignments)
-    - [Week 1 Assignment](#week-1-assignment)
-    - [Week 2 Assignment](#week-2-assignment)
-    - [Week 3 Assignment](#week-3-assignment)
-    - [Week 4 Assignment](#week-4-assignment)
-
 ### Week 1 Assignment
 
 - Fill in the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSelX_L-Y-xN_G8t7sTatwPrIeKAbNlnLwANHB5cSTnHuoivuA/viewform) (if you haven't done yet)
