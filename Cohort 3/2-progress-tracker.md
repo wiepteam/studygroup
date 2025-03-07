@@ -23,13 +23,13 @@ Follow these guidelines when updating the progress tracker table:
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      |         |         |         |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
 |  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
-|  [Odinga](https://github.com/odingaval)     |         |         |         |         |
+|  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
 |  Sasha      |         |         |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
 
