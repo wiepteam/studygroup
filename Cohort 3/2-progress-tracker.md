@@ -24,7 +24,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
 |  Ijay   |         |         |         |         |
-| [Lada](https://github.com/hara-desu)             |         |         |         |         |
+| [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | Asked to assign creating a PR to me.        |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
 |  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
 |  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
