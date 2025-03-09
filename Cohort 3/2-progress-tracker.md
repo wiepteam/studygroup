@@ -26,7 +26,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
 |  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
-|  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
+|  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
 |  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
 |  Sasha      |         |         |         |         |
