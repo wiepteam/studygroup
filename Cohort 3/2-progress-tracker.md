@@ -17,8 +17,9 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
+
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
-|  [Cheryl](https://github.com/Cherrypick14)     |      Week 3  | [prysm  #10468] (https://github.com/prysmaticlabs/prysm/issues/10468)         |         |         |
+|  [Cheryl](https://github.com/Cherrypick14)     |      Week 3  | [Prysm  #10468] (https://github.com/prysmaticlabs/prysm/issues/10468)         |         |         |
 |  Doreen     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
@@ -26,13 +27,29 @@ Follow these guidelines when updating the progress tracker table:
 |  Mercy      |         |         |         |         |
 |  Naomi      |         |         |         |         |
 |  [Odinga](https://github.com/odingaval)     |         |         |         |         |
+
+| [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |         |
+|  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
+|  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
+|  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
+|  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
+|  Ijay   |         |         |         |         |
+| [Lada](https://github.com/hara-desu)             |         |         |         |         |
+|  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
+|  [Mercy](https://github.com/bomanaps)      |         |         |         |         |
+|  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
+|  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
+
 |  Sasha      |         |         |         |         |
-|  Victoria   |         |         |         |         |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
 
 ## Home Assignments
 
 - [Week 1 Assignment](#week-1-assignment)
 - [Week 2 Assignment](#week-2-assignment)
+- [Week 3 Assignment](#week-3-assignment)
+- [Week 4 Assignment](#week-4-assignment)
 
 ### Week 1 Assignment
 
@@ -51,3 +68,20 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Open a PR titled `Your-Name: Cohort 3 Week 2 Assignment`.
 - Share the link to your PR in the Discord thread for the Week 2 assignment.
 - Start exploring issues. If you choose an issue, assign it to yourself in the issue comments and share the link to the issue in the Week 2 Discord thread.
+
+### Week 3 Assignment
+
+- Choose the [issue](./4-issues-guide.md) you will be working on.
+- Assign yourself to the issue by leaving a comment on it.
+- In the [Progress Tracker Table](#progress-tracker-table), add `Week 3` and a link to your issue, following the pattern in the first row.
+- Open a PR titled `Your-Name: Cohort 3 Week 3 Assignment`.
+- Share the link to your PR in the Week 3 Assignment post in the #assignments channel.
+- Start working on your issue.
+
+### Week 4 Assignment
+
+- Continue working on your issue.
+- In the [Progress Tracker Table](#progress-tracker-table), change the week number to 4.
+- Add a brief description of your progress update on the issue (1-2 sentences), following the pattern in the first row.
+- Open a PR titled `Your-Name: Cohort 3 Week 4 Assignment`.
+- Share the link to your PR in the Week 4 Assignment post in the #assignments channel.
