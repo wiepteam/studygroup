@@ -22,6 +22,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
+|  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             |         |         |         |         |
