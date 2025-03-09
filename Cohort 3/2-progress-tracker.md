@@ -33,8 +33,8 @@ Follow these guidelines when updating the progress tracker table:
 |  Sasha      |         |         |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
 
-
 ## Home Assignments
+
   - [Week 1 Assignment](#week-1-assignment)
   - [Week 2 Assignment](#week-2-assignment)
   - [Week 3 Assignment](#week-3-assignment)
