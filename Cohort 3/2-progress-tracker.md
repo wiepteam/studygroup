@@ -19,14 +19,14 @@ Follow these guidelines when updating the progress tracker table:
 |------------------------------------------------------|------|-------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
-|  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
+|  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |         |         |         |         |
-|  [Doreen](https://github.com/Doreen-Onyango)     |         |         |         |         |
+|  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
 |  Ijay   |         |         |         |         |
 | [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | Asked to assign creating a PR to me.        |         |
-|  [Loisa](https://github.com/lolosaisa)    |        |     |    |    |
+|  [Loisa](https://github.com/lolosaisa)    |        | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
 |  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
