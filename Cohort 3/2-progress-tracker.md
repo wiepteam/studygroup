@@ -17,6 +17,17 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
+
+| [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
+|  [Cheryl](https://github.com/Cherrypick14)     |      Week 3  | [Prysm  #10468] (https://github.com/prysmaticlabs/prysm/issues/10468)         |         |         |
+|  Doreen     |         |         |         |         |
+|  Glory      |         |         |         |         |
+|  Lada       |         |         |         |         |
+|  Loisa      |         |         |         |         |
+|  Mercy      |         |         |         |         |
+|  Naomi      |         |         |         |         |
+|  [Odinga](https://github.com/odingaval)     |         |         |         |         |
+
 | [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Bratipah](https://github.com/Bratipah)              |        |      |                |          |
@@ -30,6 +41,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
 |  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
+
 |  Sasha      |         |         |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
 
