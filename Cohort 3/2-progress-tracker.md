@@ -18,7 +18,7 @@ Follow these guidelines when updating the progress tracker table:
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example)|      |       |                 |         |
-|  Cheryl     |         |         |         |         |
+|  Cheryl     | Week 3        |    [Prysm#10468](https://github.com/prysmaticlabs/prysm/issues/10468)     |         |         |
 |  Doreen     |         |         |         |         |
 |  Glory      |         |         |         |         |
 |  Lada       |         |         |         |         |
