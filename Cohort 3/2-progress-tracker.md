@@ -24,7 +24,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 3      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |         |         |
-|  Ijay   |         |         |         |         |
+|  Ijay   |         | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        |         |         |
 | [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | PR successfully implemented.        | PR successfully closed.        |
 |  [Loisa](https://github.com/lolosaisa)    |        | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
