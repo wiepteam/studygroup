@@ -18,8 +18,8 @@ During the cohort, you will work with two repositories, each corresponding to a 
 Log into your GitHub account, go to the [WiEP repository](https://github.com/wiepteam/studygroup.git) and fork it by pressing the `Fork` button. After forking, you'll see a copy of the repository in your GitHub account under **Your Repositories**. Clone it to your local machine using the CLI. Add the upstream for the original WiEP repository:
 
 ```bash
-git clone https://github.com/your-github-account/wiep-studygroup.git
-cd wiep-studygroup
+git clone https://github.com/<YOUR-GITHUB-ACCOUNT>/studygroup.git
+cd studygroup
 git remote add upstream https://github.com/wiepteam/studygroup.git
 ```
 
