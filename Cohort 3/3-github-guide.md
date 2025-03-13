@@ -19,7 +19,7 @@ Log into your GitHub account, go to the [WiEP repository](https://github.com/wie
 
 ```bash
 git clone https://github.com/<YOUR-GITHUB-ACCOUNT>/studygroup.git
-cd studygroup
+cd wiep-studygroup
 git remote add upstream https://github.com/wiepteam/studygroup.git
 ```
 
