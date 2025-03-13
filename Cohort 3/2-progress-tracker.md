@@ -17,7 +17,7 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
@@ -33,12 +33,19 @@ Follow these guidelines when updating the progress tracker table:
 |  Sasha      |         |         |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
 
+&#x1F6E0; – Working on Issue  
+&#x1F680;– Pull Request Open  
+&#x2705; – Pull Request Merged  
+&#x1F6A8; – Stuck, need help  
+&#x1F469;&#x200D;&#x1F393; – In learning mode
+
 ## Home Assignments
 
 - [Week 1 Assignment](#week-1-assignment)
 - [Week 2 Assignment](#week-2-assignment)
 - [Week 3 Assignment](#week-3-assignment)
 - [Week 4 Assignment](#week-4-assignment)
+- [Week 5 Assignment](#week-5-assignment)
 
 ### Week 1 Assignment
 
@@ -74,3 +81,22 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Add a brief description of your progress update on the issue (1-2 sentences), following the pattern in the first row.
 - Open a PR titled `Your-Name: Cohort 3 Week 4 Assignment`.
 - Share the link to your PR in the Week 4 Assignment post in the #assignments channel.
+
+### Week 5 Assignment
+
+- At this step, your issue should be assigned to you—or at least you should have already commented on the issue on GitHub. If you have been assigned by the author of the issue, start working on the code or continue asking additional questions if it's not clear what to do.
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from GitHubGuide.
+- Create a branch named `cohort-3-week-5`.
+- Change the week number to 5. 
+- Add a brief description of your progress update.
+- If you opened or merged a pull request, add the link to it and the corresponding emoji into the Outcome. Available emojis are under the table. Copy the code and paste it.
+- Push your updates and open a PR.
+
+⚠️ The following steps are optional—an additional task for those confident with the previous tasks:
+
+- Compare the upstream progress table and your progress table using the GitHub web interface. Check the first row of the table and wait until the days differ. Then, merge the updates into your branch by running:
+```
+  git fetch upstream
+  git merge upstream/main
+```
+- Resolve any conflicts using your IDE (refer to the Week 5 recording for guidance).
