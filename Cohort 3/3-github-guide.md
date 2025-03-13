@@ -19,7 +19,7 @@ Log into your GitHub account, go to the [WiEP repository](https://github.com/wie
 
 ```bash
 git clone https://github.com/<YOUR-GITHUB-ACCOUNT>/studygroup.git
-cd wiep-studygroup
+cd studygroup
 git remote add upstream https://github.com/wiepteam/studygroup.git
 ```
 
@@ -32,8 +32,8 @@ git remote -v
 The output should be like:
 
 ```bash
-origin  https://github.com/your-github-account/wiep-studygroup.git (fetch)
-origin  https://github.com/your-github-account/wiep-studygroup.git (push)
+origin  https://github.com/<YOUR-GITHUB-ACCOUNT>/studygroup.git (fetch)
+origin  https://github.com/<YOUR-GITHUB-ACCOUNT>/studygroup.git (push)
 upstream        https://github.com/wiepteam/studygroup.git (fetch)
 upstream        https://github.com/wiepteam/studygroup.git (push)
 ```
