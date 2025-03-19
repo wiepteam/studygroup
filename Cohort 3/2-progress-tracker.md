@@ -34,7 +34,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 4        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
 |  Sylvia    |         |        |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 4      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently working on more changes as requested on the PR     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
