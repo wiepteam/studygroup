@@ -11,10 +11,6 @@ PeerDAS (Peer Data Availability Sampling) is a networking protocol that allows b
 
 DAS is a method of scaling data availability beyond the levels of EIP-4844. Providing additional data availability helps bring scale to Ethereum users in the context of layer 2 systems called “roll-ups” whose dominant bottleneck is layer 1 data availability.
 
-## Data Availability Sampling (DAS)
-
-## Erasure Codes
-
 ## Specifications
 
 The blobs introduced in EIP-4844 are extended using a one-dimensional erasure coding extension. Each row consists of the blob data combined with its erasure code. It is subdivided into cells, which are the smallest units that can be authenticated with their respective blob’s KZG commitments. Each column, associated with a specific gossip subnet, consists of the cells from all rows for a specific index. Each node is responsible for maintaining and custodying a deterministic set of column subnets and data as a function of their node ID.
