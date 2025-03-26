@@ -17,7 +17,8 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 5 Day 7 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 6 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+|  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  Arunima    |         |        |         |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
@@ -51,6 +52,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 3 Assignment](#week-3-assignment)
 - [Week 4 Assignment](#week-4-assignment)
 - [Week 5 Assignment](#week-5-assignment)
+- [Week 6 Assignment](#week-6-assignment)
 
 ### Week 1 Assignment
 
@@ -100,8 +102,20 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 ⚠️ The following steps are optional—an additional task for those confident with the previous tasks:
 
 - Compare the upstream progress table and your progress table using the GitHub web interface. Check the first row of the table and wait until the days differ. Then, merge the updates into your branch by running:
-```
+
+```bash
   git fetch upstream
   git merge upstream/main
 ```
+
 - Resolve any conflicts using your IDE (refer to the Week 5 recording for guidance).
+
+### Week 6 Assignment
+
+- Choose an [EIP](https://eips.ethereum.org/) with a Final status from the Core, Networking, or Interface categories. Assign yourself to this EIP in the [EIPs table](https://docs.google.com/spreadsheets/d/1kvUCYtmIkDiylyog1NA1DOrazPOldmYH2pBALjo963A/edit?usp=sharing) and ensure that no one else has chosen it before.
+- Read the EIP’s description to understand its main idea and research further to gather additional background information.
+- Create a Markdown file in the `Cohort3/EIPs` folder and name it using the format `<Your-Name>-eip-#.md`.
+- In your Markdown file, include the EIP’s name, number, creation date, and authors; add a brief description (1-2 paragraphs) explaining why the EIP was proposed and its general idea.
+- Research additional information (e.g., summaries of articles, discussions, and videos) using resources like [Ethereum Magicians](https://ethereum-magicians.org/), [Ethereum Research](https://ethresear.ch/), and others, and include links to these resources.
+- Prepare a 1-2 minute pitch for the standup call; you may use your Markdown file as a guide or create a one-slide presentation.
+- Continue working on your assigned EIP, and update your progress and outcome emoji in the Progress Table, and add your PR (whether it’s in draft, opened, or merged state) if you already have one.
