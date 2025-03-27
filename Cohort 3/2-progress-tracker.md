@@ -28,7 +28,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 4      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   PR assigned to me      |         |
-|  Ijay   |         | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        |         |         |
+|  [Ijay](https://github.com/IjayAbby)   | Week 2        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        |         |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
 | [Lada](https://github.com/hara-desu) | Week 6 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Thinking how to implement three separate progress bars and studying cli-progress library. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
