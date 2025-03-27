@@ -59,7 +59,7 @@ In summary, EIP-4938 is an EIP that focuses on refining the Ethereum wire protoc
   This EIP does not change consensus rules of the EVM and does not require a hard fork
 
 Basically, EIP-4938 is a technical optimization that contributes to the ongoing evolution of the Ethereum network, making it more efficient for nodes to communicate and synchronize.
-Reference:
+#### Reference:
 
 - [EIP-4938](https://eips.ethereum.org/EIPS/eip-4938)
 - [Ethereum Wire Protocol](https://github.com/ethereum/devp2p/blob/40ab248bf7e017e83cc9812a4e048446709623e8/caps/eth.md)
