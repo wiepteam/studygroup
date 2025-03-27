@@ -20,7 +20,6 @@ Follow these guidelines when updating the progress tracker table:
 | [WiEP Study Group Fellow](https://github.com/example)| Week 6 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
-|  Arunima    |         |        |         |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
@@ -36,6 +35,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 4        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
+|  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
