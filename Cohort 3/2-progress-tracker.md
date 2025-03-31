@@ -17,10 +17,13 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 4 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787)  | Discussed the issue on GitHub and started writing code. |         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 7 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+|  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
+|  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
+|  [Dinah](https://github.com/dinahmaccodes)    | Week 6        | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Asked if i can be assigned issue and started researching about ways to solve issue        |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue      |         |
@@ -28,10 +31,17 @@ Follow these guidelines when updating the progress tracker table:
 | [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | PR successfully implemented.        | PR successfully closed.        |
 |  [Loisa](https://github.com/lolosaisa)    |        | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
-|  [Naomi](https://github.com/naynayu)   |Week 3         |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         |         |         |
-|  [Odinga](https://github.com/odingaval)     | Week 3        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |         |         |
-|  Sasha      |         |         |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 3      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |         |         |
+|  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
+|  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
+|  Rose    |         |        |         |         |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        |         |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
+
+&#x1F6E0; – Working on Issue  
+&#x1F680;– Pull Request Open  
+&#x2705; – Pull Request Merged  
+&#x1F6A8; – Stuck, need help  
+&#x1F469;&#x200D;&#x1F393; – In learning mode
 
 ## Home Assignments
 
@@ -39,6 +49,9 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 2 Assignment](#week-2-assignment)
 - [Week 3 Assignment](#week-3-assignment)
 - [Week 4 Assignment](#week-4-assignment)
+- [Week 5 Assignment](#week-5-assignment)
+- [Week 6 Assignment](#week-6-assignment)
+- [Week 7 Assignment](#week-7-assignment)
 
 ### Week 1 Assignment
 
@@ -74,3 +87,57 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Add a brief description of your progress update on the issue (1-2 sentences), following the pattern in the first row.
 - Open a PR titled `Your-Name: Cohort 3 Week 4 Assignment`.
 - Share the link to your PR in the Week 4 Assignment post in the #assignments channel.
+
+### Week 5 Assignment
+
+- At this step, your issue should be assigned to you—or at least you should have already commented on the issue on GitHub. If you have been assigned by the author of the issue, start working on the code or continue asking additional questions if it's not clear what to do.
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from GitHubGuide.
+- Create a branch named `cohort-3-week-5`.
+- Change the week number to 5. 
+- Add a brief description of your progress update.
+- If you opened or merged a pull request, add the link to it and the corresponding emoji into the Outcome. Available emojis are under the table. Copy the code and paste it.
+- Push your updates and open a PR.
+
+⚠️ The following steps are optional—an additional task for those confident with the previous tasks:
+
+- Compare the upstream progress table and your progress table using the GitHub web interface. Check the first row of the table and wait until the days differ. Then, merge the updates into your branch by running:
+
+```bash
+  git fetch upstream
+  git merge upstream/main
+```
+
+- Resolve any conflicts using your IDE (refer to the Week 5 recording for guidance).
+
+### Week 6 Assignment
+
+- Choose an [EIP](https://eips.ethereum.org/) with a Final status from the Core, Networking, or Interface categories. Assign yourself to this EIP in the [EIPs table](https://docs.google.com/spreadsheets/d/1kvUCYtmIkDiylyog1NA1DOrazPOldmYH2pBALjo963A/edit?usp=sharing) and ensure that no one else has chosen it before.
+- Read the EIP’s description to understand its main idea and research further to gather additional background information.
+- Create a Markdown file in the `Cohort3/EIPs` folder and name it using the format `<Your-Name>-eip-#.md`.
+- In your Markdown file, include the EIP’s name, number, creation date, and authors; add a brief description (1-2 paragraphs) explaining why the EIP was proposed and its general idea.
+- Research additional information (e.g., summaries of articles, discussions, and videos) using resources like [Ethereum Magicians](https://ethereum-magicians.org/), [Ethereum Research](https://ethresear.ch/), and others, and include links to these resources.
+- Prepare a 1-2 minute pitch for the standup call; you may use your Markdown file as a guide or create a one-slide presentation.
+- Continue working on your assigned EIP, and update your progress and outcome emoji in the Progress Table, and add your PR (whether it’s in draft, opened, or merged state) if you already have one.
+
+### Week 7 Assignment
+
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from the GitHub Guide.
+- Create a branch named `cohort-3-week-7`.
+- Update Week 7 in the Progress Table.
+- Push your updates and open a PR as early as possible.
+- Check for updates from the upstream main:
+
+  ```bash
+  git fetch upstream/main
+  ```
+
+- Merge the updates if there are any:
+
+  ```bash
+  git merge upstream/main
+  ```
+
+- If you encounter merge conflicts, resolve them by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
+- If there are no updates or conflicts from `upstream/main`, continue merging every day of the current week until you encounter a conflict.
+- Push your merge by running `git push`.
+- Add Week 7, your updates, and the progress emoji to the Progress Table. Push them with `git push`.
