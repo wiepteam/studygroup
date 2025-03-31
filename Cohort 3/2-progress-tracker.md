@@ -23,7 +23,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 4      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   PR assigned to me      |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue      |         |
 |  Ijay   |         | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        |         |         |
 | [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | PR successfully implemented.        | PR successfully closed.        |
 |  [Loisa](https://github.com/lolosaisa)    |        | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
