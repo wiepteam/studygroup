@@ -26,10 +26,13 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 6        | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Asked if i can be assigned issue and started researching about ways to solve issue        |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue      |         |
-|  Ijay   |         | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        |         |         |
-| [Lada](https://github.com/hara-desu)             | Week 4        | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136)        | PR successfully implemented.        | PR successfully closed.        |
-|  [Loisa](https://github.com/lolosaisa)    |        | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
+|  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
+|  Juliet Olivia    |         |        |         |         |
+|  Koko    |         |        |         |         |
+|  [Lada](https://github.com/hara-desu) | Week 6 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Thinking how to implement three separate progress bars and studying cli-progress library. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
+|  [Loisa](https://github.com/lolosaisa)    |  week 4  | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    | I got assigned an issue and started researching  |    |
+|  Maria    |         |        |         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
