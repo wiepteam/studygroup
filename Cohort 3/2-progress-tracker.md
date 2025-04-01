@@ -17,7 +17,7 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 6 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 7 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
@@ -26,12 +26,13 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 6        | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Asked if i can be assigned issue and started researching about ways to solve issue        |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 4      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   PR assigned to me      |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
 |  [Lada](https://github.com/hara-desu) | Week 6 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Thinking how to implement three separate progress bars and studying cli-progress library. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
 |  [Loisa](https://github.com/lolosaisa)    |  week 4  | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    | I got assigned an issue and started researching  |    |
+|  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
@@ -53,6 +54,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 4 Assignment](#week-4-assignment)
 - [Week 5 Assignment](#week-5-assignment)
 - [Week 6 Assignment](#week-6-assignment)
+- [Week 7 Assignment](#week-7-assignment)
 
 ### Week 1 Assignment
 
@@ -119,3 +121,26 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Research additional information (e.g., summaries of articles, discussions, and videos) using resources like [Ethereum Magicians](https://ethereum-magicians.org/), [Ethereum Research](https://ethresear.ch/), and others, and include links to these resources.
 - Prepare a 1-2 minute pitch for the standup call; you may use your Markdown file as a guide or create a one-slide presentation.
 - Continue working on your assigned EIP, and update your progress and outcome emoji in the Progress Table, and add your PR (whether it’s in draft, opened, or merged state) if you already have one.
+
+### Week 7 Assignment
+
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from the GitHub Guide.
+- Create a branch named `cohort-3-week-7`.
+- Update Week 7 in the Progress Table.
+- Push your updates and open a PR as early as possible.
+- Check for updates from the upstream main:
+
+  ```bash
+  git fetch upstream/main
+  ```
+
+- Merge the updates if there are any:
+
+  ```bash
+  git merge upstream/main
+  ```
+
+- If you encounter merge conflicts, resolve them by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
+- If there are no updates or conflicts from `upstream/main`, continue merging every day of the current week until you encounter a conflict.
+- Push your merge by running `git push`.
+- Add Week 7, your updates, and the progress emoji to the Progress Table. Push them with `git push`.
