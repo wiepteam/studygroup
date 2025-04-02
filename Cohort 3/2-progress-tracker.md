@@ -34,9 +34,11 @@ Follow these guidelines when updating the progress tracker table:
 |  [Loisa](https://github.com/lolosaisa)    |    week 3    | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    |    |    |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
-|  [Odinga](https://github.com/odingaval)     | Week 4        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 4      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently working on more changes as requested on the PR     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
+|  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
+|  Rose    |         |        |         |         |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        | I'm currently working on the review that was made on my assigned issue.     |
+|  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
