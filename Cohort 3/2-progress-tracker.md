@@ -30,7 +30,11 @@ Follow these guidelines when updating the progress tracker table:
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
+<<<<<<< HEAD
 |  [Lada](https://github.com/hara-desu) | Week 7 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Just continue working on the issue. It's a bit difficult for my experience with Typescript. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
+=======
+|  [Lada](https://github.com/hara-desu) | Week 6 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
+>>>>>>> upstream/main
 |  [Loisa](https://github.com/lolosaisa)    |  week 4  | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    | I got assigned an issue and started researching  |    |
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
@@ -38,6 +42,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
 |  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        |         |
+|  Tracy    |         |        |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
 &#x1F6E0; – Working on Issue  
