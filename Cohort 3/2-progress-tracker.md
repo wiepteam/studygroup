@@ -26,7 +26,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 6        | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Asked if i can be assigned issue and started researching about ways to solve issue        |         |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 6      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
