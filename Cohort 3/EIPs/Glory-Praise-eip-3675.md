@@ -1,9 +1,18 @@
 ## EIP-3675: [Ethereum Domain Name Service](https://eips.ethereum.org/EIPS/eip-3675)
 
 **EIP Name:** Upgrade consensus to Proof-of-Stake
+
+
 **EIP Number:** 3675
+
+
 **Authors:** Mikhail Kalinin, Danny Ryan, Vitalik Buterin
+
+
 **Created:** 2021-07-22
+
+
+## `EIP description`
 
 EIP-3675 defines the transition of the Ethereum network's consensus mechanism from Proof-of-Work (PoW) to Proof-of-Stake (PoS), known as "The Merge." This upgrade eliminates energy-intensive mining and replaces it with staking, where validators lock up ETH to participate in block creation and validation. This shift aims to enhance energy efficiency, improve security, and pave the way for further scaling solutions.
 
