@@ -1,4 +1,4 @@
-## EIP-3675: [Ethereum Domain Name Service](https://eips.ethereum.org/EIPS/eip-3675)
+## EIP-3675: [Upgrade consensus to Proof-of-Stake](https://eips.ethereum.org/EIPS/eip-3675)
 
 **EIP Name:** Upgrade consensus to Proof-of-Stake
 
