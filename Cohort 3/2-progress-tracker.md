@@ -26,18 +26,18 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 7       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Assigned issue. Spinning it up on docker and trying to solve problem              |     #6679 &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 5      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 6      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
-|  [Lada](https://github.com/hara-desu) | Week 6 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
+|  [Lada](https://github.com/hara-desu) | Week 7 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Trying to understand how to use cli-progress library. Progress bars don't get displayed in logs. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
 |  [Loisa](https://github.com/lolosaisa)    |  week 4  | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    | I got assigned an issue and started researching  |    |
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Got assigned to the issue and currently working on it.        |         |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES       |         |
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
