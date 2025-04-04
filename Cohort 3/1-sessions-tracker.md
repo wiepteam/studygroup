@@ -11,8 +11,8 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 5  | Mar 13, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/46) Merge | [Assignment 5](2-progress-tracker.md#week-5-assignment) | [Recording 5](https://www.youtube.com/watch?v=HEx7J63Jfz4) |
 | Week 6  | Mar 20, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/64) Pooja from EthCatHerders - EIPs| [Assignment 6](2-progress-tracker.md#week-6-assignment)  | [Recording 6](https://youtu.be/3E9LJd_wyy4)|
 | Week 7  | Mar 27, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/75) EIP pitching | [Assignment 7](2-progress-tracker.md#week-7-assignment)   | [Recording 7](https://www.youtube.com/watch?v=YaOX5l8nuPo)   |
-| Week 8  | Apr 03, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/91) Justin from Besu - Txn lifecycle |          |           |
-| Week 9  | Apr 10, 2025        | Standup                    |            |           |
+| Week 8  | Apr 03, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/91) Justin from Besu - Txn lifecycle | [Assignment 8](2-progress-tracker.md#week-8-assignment) |           |
+| Week 9  | Apr 10, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/105) Rebase |            |           |
 | Week 10 | Apr 17, 2025        | Office Hours               |            |           |
 | Week 11 | Apr 24, 2025        | Standup                    |            |           |
 | Week 12 | May 01, 2025        | Closing Ceremony           |            |           |
