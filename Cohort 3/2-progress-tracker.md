@@ -17,16 +17,16 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 7 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 8 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
-|  [Dinah](https://github.com/dinahmaccodes)    | Week 8      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Assigned issue. Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.            |     #6679 &#x1F469;&#x200D;&#x1F393;      |
+|  [Dinah](https://github.com/dinahmaccodes)    | Week 8      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Assigned issue. Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.            |    [#6679](https://github.com/ChainSafe/lodestar/issues/6679) &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 6      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |         |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 7      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |       #6591 🛠 |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
@@ -56,6 +56,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 5 Assignment](#week-5-assignment)
 - [Week 6 Assignment](#week-6-assignment)
 - [Week 7 Assignment](#week-7-assignment)
+- [Week 8 Assignment](#week-8-assignment)
 
 ### Week 1 Assignment
 
@@ -145,3 +146,24 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - If there are no updates or conflicts from `upstream/main`, continue merging every day of the current week until you encounter a conflict.
 - Push your merge by running `git push`.
 - Add Week 7, your updates, and the progress emoji to the Progress Table. Push them with `git push`.
+
+### Week 8 Assignment
+
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from the GitHub Guide.
+- Create a branch named `cohort-3-week-8`.
+- Add Week 8, your updates, and the progress emoji to the Progress Table. Push them with `git push`. Open a PR.
+- Check for updates from the upstream main:
+
+  ```bash
+  git fetch upstream/main
+  ```
+
+- Rebase the updates if there are any:
+
+  ```bash
+  git rebase upstream/main
+  ```
+
+- If you encounter rebase conflicts, resolve them the same way as merge conflicts by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
+- If there are no updates or conflicts from `upstream/main`, continue rebasing every day of the current week until you encounter a conflict.
+- Push your rebase by running `git push`.
