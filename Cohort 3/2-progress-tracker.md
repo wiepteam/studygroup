@@ -26,7 +26,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.               |     &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 7      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES   |  &#x1F6E0; |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 8      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Fixing bugs gotten while working on issue   |        🛠 |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
