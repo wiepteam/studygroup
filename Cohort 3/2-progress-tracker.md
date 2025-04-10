@@ -23,10 +23,10 @@ Follow these guidelines when updating the progress tracker table:
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
-|  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.               |     [#6679](https://github.com/ChainSafe/lodestar/issues/6679)  &#x1F469;&#x200D;&#x1F393;      |
+|  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.               |     &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 7      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |       #6591 🛠 |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 7      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES   |  &#x1F6E0; |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
@@ -37,7 +37,10 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/issues/6490)       |
+
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
+
+
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
 
