@@ -17,7 +17,11 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
+<<<<<<< HEAD
 | [WiEP Study Group Fellow](https://github.com/example)| Week 10 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+=======
+| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+>>>>>>> 213d334 (Add Week 9 progress table update)
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 8     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | made some changes to prevent writing state to disk since it has no significant impact on it               |     🛠    |
@@ -163,7 +167,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Rebase the updates if there are any:
 
   ```bash
-  git rebase upstream/main
+  git rebase upst gream/main
   ```
 
 - If you encounter rebase conflicts, resolve them the same way as merge conflicts by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
