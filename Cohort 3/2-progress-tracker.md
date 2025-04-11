@@ -39,7 +39,7 @@ Follow these guidelines when updating the progress tracker table:
 |  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently struggling with CI and build issues, I sent a message to the loadestar Discord about my problem, waiting for their response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    CI and build issues has been fixed. I'm currently waiting for the reviewer's response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
