@@ -57,6 +57,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 6 Assignment](#week-6-assignment)
 - [Week 7 Assignment](#week-7-assignment)
 - [Week 8 Assignment](#week-8-assignment)
+- [Week 9 Assignment](#week-9-assignment)
 
 ### Week 1 Assignment
 
@@ -167,3 +168,5 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - If you encounter rebase conflicts, resolve them the same way as merge conflicts by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
 - If there are no updates or conflicts from `upstream/main`, continue rebasing every day of the current week until you encounter a conflict.
 - Push your rebase by running `git push`.
+
+### Week 9 Assignment
