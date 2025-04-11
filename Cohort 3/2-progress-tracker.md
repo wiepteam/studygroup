@@ -134,7 +134,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Check for updates from the upstream main:
 
   ```bash
-  git fetch upstream/main
+  git fetch upstream main
   ```
 
 - Merge the updates if there are any:
@@ -156,7 +156,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Check for updates from the upstream main:
 
   ```bash
-  git fetch upstream/main
+  git fetch upstream main
   ```
 
 - Rebase the updates if there are any:
@@ -170,3 +170,22 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Push your rebase by running `git push`.
 
 ### Week 9 Assignment
+
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from the GitHub Guide.
+- Create a branch named `cohort-3-week-9`.
+- Update Week 9 in the Progress Table.
+- Add remote tracking fork:
+
+```bash
+git remote add fork-katya https://github.com/KatyaRyazantseva/wiep-studygroup.git
+git fetch fork-katya week-9
+```
+
+- Cherry pick the commit:
+
+```bash
+git cherry-pick fork-katya/week-9 213d3340a77771b9c9e2753266333cde5166de18
+```
+
+- Check that in the first row of the Progress Table Week 8 changed to Week 9.
+- Push your updates and open a PR.
