@@ -23,10 +23,10 @@ Follow these guidelines when updating the progress tracker table:
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
 |  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
-|  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. TAsked for help and got some insight so I'm working on following the tip given              |     [#6679](https://github.com/ChainSafe/lodestar/issues/6679)  &#x1F469;&#x200D;&#x1F393;     |
+|  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.               |  [#6679](https://github.com/ChainSafe/lodestar/issues/6679)   &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 7      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on the issue    |       #6591 🛠 |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 8      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Fixing bugs gotten while working on issue   |        🛠 |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
@@ -37,9 +37,9 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES       |         |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 5      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    I'm done working on the fetch functionality and i'm currently working on more changes that was requested during the review     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F680;    |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently struggling with CI and build issues, I sent a message to the loadestar Discord about my problem, waiting for their response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
@@ -57,6 +57,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 6 Assignment](#week-6-assignment)
 - [Week 7 Assignment](#week-7-assignment)
 - [Week 8 Assignment](#week-8-assignment)
+- [Week 9 Assignment](#week-9-assignment)
 
 ### Week 1 Assignment
 
@@ -133,7 +134,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Check for updates from the upstream main:
 
   ```bash
-  git fetch upstream/main
+  git fetch upstream main
   ```
 
 - Merge the updates if there are any:
@@ -155,7 +156,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Check for updates from the upstream main:
 
   ```bash
-  git fetch upstream/main
+  git fetch upstream main
   ```
 
 - Rebase the updates if there are any:
@@ -167,3 +168,24 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - If you encounter rebase conflicts, resolve them the same way as merge conflicts by accepting the incoming changes, as shown in the [Week 5 recording](https://youtu.be/HEx7J63Jfz4?si=S9mwLtGugjqANGfW&t=3303).
 - If there are no updates or conflicts from `upstream/main`, continue rebasing every day of the current week until you encounter a conflict.
 - Push your rebase by running `git push`.
+
+### Week 9 Assignment
+
+- Update your main branch using [step 5](https://github.com/wiepteam/studygroup/blob/main/Cohort%203/3-github-guide.md#5-weekly-updates-syncing-with-upstream-and-making-new-contributions) from the GitHub Guide.
+- Create a branch named `cohort-3-week-9`.
+- Update Week 9 in the Progress Table.
+- Add remote tracking fork:
+
+```bash
+git remote add fork-katya https://github.com/KatyaRyazantseva/wiep-studygroup.git
+git fetch fork-katya week-9
+```
+
+- Cherry pick the commit:
+
+```bash
+git cherry-pick fork-katya/week-9 213d3340a77771b9c9e2753266333cde5166de18
+```
+
+- Check that in the first row of the Progress Table Week 8 changed to Week 9.
+- Push your updates and open a PR.
