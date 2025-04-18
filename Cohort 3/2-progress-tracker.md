@@ -21,7 +21,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
-|  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
+|  [Bratipah](https://github.com/Bratipah)              |        |     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 9      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Asked questions in main ChainSafe group to better understand the task I am working on           |    [#6679](https://github.com/ChainSafe/lodestar/issues/6679) &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |       |         |         |
