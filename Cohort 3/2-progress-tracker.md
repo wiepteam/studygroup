@@ -2,7 +2,7 @@
 
 This document tracks the progress of Cohort 3 participants. Use this tracker to monitor your issue assignments, log weekly status updates, and track final outcomes.
 
-- [Progress Tracker Table](#progress-tracker-table)
+- [Progress Tracker Table](#progress-tracker-table
 - [Home Assignments](#home-assignments)
 
 ## Progress Tracker Table
@@ -35,7 +35,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
-|  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
+|  [Odinga](https://github.com/odingaval)     | Week 7       |[Prysm #11978] (https://github.com/prysmaticlabs/prysm/issues/11978)         |  |building has successfully completed, testing the new flag starndidization is in progress.         |
 |  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 5    |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES       |         |
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
