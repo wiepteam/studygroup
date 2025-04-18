@@ -58,6 +58,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 7 Assignment](#week-7-assignment)
 - [Week 8 Assignment](#week-8-assignment)
 - [Week 9 Assignment](#week-9-assignment)
+- [Week 10 Assignment](#week-10-assignment)
 
 ### Week 1 Assignment
 
@@ -189,3 +190,24 @@ git cherry-pick fork-katya/week-9 213d3340a77771b9c9e2753266333cde5166de18
 
 - Check that in the first row of the Progress Table Week 8 changed to Week 9.
 - Push your updates and open a PR.
+
+### Week 10 Assignment
+
+Dear fellows,
+
+Our cohort is coming to its end, and this is your final homework assignment. We’d like you to share your thoughts on the cohort in a free‑form retrospective. Write as much or as little as you like whether that’s one or two paragraphs or several pages if you have a lot to say!
+
+Here are a few prompts to get you started:
+
+- What was most memorable for you?
+- What did you find particularly useful during the cohort?
+- Which parts of the cohort felt challenging or were unclear?
+- What new skills or insights have you gained from the cohort?
+- What would you like to explore in more depth within the cohort topics?
+- What do you think of the Ethereum Protocol after the cohort?
+
+Feel free to address any other reflections, suggestions, or experiences you’d like to share about the cohort.
+
+Please add your retrospective to the following file in our WiEP GitHub repository `Retrospectives/YOUR-NAME-retrospective.md`.
+
+Thank you for your hard work and honest feedback! We look forward to learning from your reflections on the cohort.
