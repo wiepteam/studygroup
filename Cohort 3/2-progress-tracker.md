@@ -208,6 +208,6 @@ Here are a few prompts to get you started:
 
 Feel free to address any other reflections, suggestions, or experiences you’d like to share about the cohort.
 
-Please add your retrospective to the following file in our WiEP GitHub repository `Retrospectives/YOUR-NAME-retrospective.md`.
+Please add your retrospective to the following file in our WiEP GitHub repository `Cohort 3/Retrospectives/YOUR-NAME-retrospective.md`.
 
 Thank you for your hard work and honest feedback! We look forward to learning from your reflections on the cohort.
