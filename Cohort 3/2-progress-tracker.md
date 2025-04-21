@@ -2,7 +2,7 @@
 
 This document tracks the progress of Cohort 3 participants. Use this tracker to monitor your issue assignments, log weekly status updates, and track final outcomes.
 
-- [Progress Tracker Table](#progress-tracker-table
+- [Progress Tracker Table](#progress-tracker-table)
 - [Home Assignments](#home-assignments)
 
 ## Progress Tracker Table
