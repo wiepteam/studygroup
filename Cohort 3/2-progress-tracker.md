@@ -17,25 +17,25 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 8 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
-|  [Bratipah](https://github.com/Bratipah)              |        | [Lodestar #6324](https://github.com/ChainSafe/lodestar/issues/6324)     |                |          |
+|  [Bratipah](https://github.com/Bratipah)              |        |     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
-|  [Dinah](https://github.com/dinahmaccodes)    | Week 8       | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Trying to understand the testing process as I go.               |     &#x1F469;&#x200D;&#x1F393;      |
-|  [Doreen](https://github.com/Doreen-Onyango)     |         | [Lodestar #6490](https://github.com/ChainSafe/lodestar/issues/6490)        |         |         |
+|  [Dinah](https://github.com/dinahmaccodes)    | Week 9      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Asked questions in main ChainSafe group to better understand the task I am working on           |    [#6679](https://github.com/ChainSafe/lodestar/issues/6679) &#x1F469;&#x200D;&#x1F393;      |
+|  [Doreen](https://github.com/Doreen-Onyango)     |         |       |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 8      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Fixing bugs gotten while working on issue   |        🛠 |
 |  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
-|  [Lada](https://github.com/hara-desu) | Week 7 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Trying to understand how to use cli-progress library. Progress bars don't get displayed in logs. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
+|  [Lada](https://github.com/hara-desu) | Week 9 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Didin't progress since week 8. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
 |  [Loisa](https://github.com/lolosaisa)    |  week 4  | [Lodestar #5045](https://github.com/ChainSafe/lodestar/issues/5045)    | I got assigned an issue and started researching  |    |
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
-|  [Odinga](https://github.com/odingaval)     | Week 5        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Reviewing existing command-line flags related to beacon node connections to detect inconsistencies.   |         |
+|  [Odinga](https://github.com/odingaval)     | Week 7        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         | REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES  |         |
 |  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
@@ -58,6 +58,7 @@ Follow these guidelines when updating the progress tracker table:
 - [Week 7 Assignment](#week-7-assignment)
 - [Week 8 Assignment](#week-8-assignment)
 - [Week 9 Assignment](#week-9-assignment)
+- [Week 10 Assignment](#week-10-assignment)
 
 ### Week 1 Assignment
 
@@ -189,3 +190,24 @@ git cherry-pick fork-katya/week-9 213d3340a77771b9c9e2753266333cde5166de18
 
 - Check that in the first row of the Progress Table Week 8 changed to Week 9.
 - Push your updates and open a PR.
+
+### Week 10 Assignment
+
+Dear fellows,
+
+Our cohort is coming to its end, and this is your final homework assignment. We’d like you to share your thoughts on the cohort in a free‑form retrospective. Write as much or as little as you like whether that’s one or two paragraphs or several pages if you have a lot to say!
+
+Here are a few prompts to get you started:
+
+- What was most memorable for you?
+- What did you find particularly useful during the cohort?
+- Which parts of the cohort felt challenging or were unclear?
+- What new skills or insights have you gained from the cohort?
+- What would you like to explore in more depth within the cohort topics?
+- What do you think of the Ethereum Protocol after the cohort?
+
+Feel free to address any other reflections, suggestions, or experiences you’d like to share about the cohort.
+
+Please add your retrospective to the following file in our WiEP GitHub repository `Cohort 3/Retrospectives/YOUR-NAME-retrospective.md`. And don't forget to update the Progress table!
+
+Thank you for your hard work and honest feedback! We look forward to learning from your reflections on the cohort.
