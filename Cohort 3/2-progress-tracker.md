@@ -16,12 +16,10 @@ Follow these guidelines when updating the progress tracker table:
 - **Outcome**: Summarize the result of your work.
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
-|------------------------------------------------------|------|-------|-----------------|---------|
-<<<<<<< HEAD
+|------------------------------------------------------|------|-------|-----------------|---------
+| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;      
 | [WiEP Study Group Fellow](https://github.com/example)| Week 10 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
-=======
-| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
->>>>>>> 213d334 (Add Week 9 progress table update)
+751cbd4 (Add cherry-pick commit)
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 8     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | made some changes to prevent writing state to disk since it has no significant impact on it               |     🛠    |
