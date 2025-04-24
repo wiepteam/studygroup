@@ -37,7 +37,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 7        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         | REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES  |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      | &#x2705 (https://github.com/ChainSafe/lodestar/pull/7628/files/a2ce3a92d4e77db076846520e7cefe65f77b9cca..10a1baedf61b1ff9a4a82cfe74582d5624eecc1e)
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
 |  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently struggling with CI and build issues, I sent a message to the loadestar Discord about my problem, waiting for their response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
 
