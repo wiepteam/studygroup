@@ -32,6 +32,9 @@ The device generates its own Ethereum address in a tamper-proof way to prevent i
 ### Test Cases
 The test cases presented in the paper shown below are available [here](https://eips.ethereum.org/assets/eip-4519/PoC_SmartNFT/).
 
+### Resources
+Abstract from [Ethereum Magicians](https://ethereum-magicians.org/t/eip-4519-non-fungible-tokens-tied-to-physical-assets/10138).
+
 ### Copyright
 Copyright and related rights waived via [CC0](https://eips.ethereum.org/LICENSE).
 
