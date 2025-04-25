@@ -17,10 +17,10 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 10 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
-|  [Barakat](https://github.com/baraqheart)                | Week 4     | [Prysm #15067](https://github.com/prysmaticlabs/prysm/issues/15068)      | started working on adding  a feature that saves every validated block               |         |
+|  [Barakat](https://github.com/baraqheart)                | Week 8     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | made some changes to prevent writing state to disk since it has no significant impact on it               |     🛠    |
 |  [Bratipah](https://github.com/Bratipah)              |        |     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 9      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Asked questions in main ChainSafe group to better understand the task I am working on           |    [#6679](https://github.com/ChainSafe/lodestar/issues/6679) &#x1F469;&#x200D;&#x1F393;      |
@@ -37,9 +37,9 @@ Follow these guidelines when updating the progress tracker table:
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
 |  [Odinga](https://github.com/odingaval)     | Week 8        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Testing of the new changes implemented in progress   |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      | &#x2705 (https://github.com/ChainSafe/lodestar/pull/7628/files/a2ce3a92d4e77db076846520e7cefe65f77b9cca..10a1baedf61b1ff9a4a82cfe74582d5624eecc1e)
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently struggling with CI and build issues, I sent a message to the loadestar Discord about my problem, waiting for their response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 9      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Pull Request Merged    |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x2705;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
