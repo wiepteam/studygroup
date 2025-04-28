@@ -20,14 +20,14 @@ Follow these guidelines when updating the progress tracker table:
 | [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
-|  [Barakat](https://github.com/baraqheart)                | Week 7     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | started working on removing a flag which has been deprecated               |     🛠    |
+|  [Barakat](https://github.com/baraqheart)                | Week 9     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | Created a PR and awaiting review               |     🛠    |
 |  [Bratipah](https://github.com/Bratipah)              |        |     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 9      | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | Made small changes to CLI and now making small modifications to ensure the multiple signers are properly read since validator store already supports multiple external signers in its design. Asked questions in main ChainSafe group to better understand the task I am working on           |    [#6679](https://github.com/ChainSafe/lodestar/issues/6679) &#x1F469;&#x200D;&#x1F393;      |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |       |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 8      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Fixing bugs gotten while working on issue   |        🛠 |
-|  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
+|  [Ijay](https://github.com/IjayAbby)   | Week 5        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | MERGE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
 |  [Lada](https://github.com/hara-desu) | Week 9 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Didin't progress since week 8. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
@@ -35,11 +35,11 @@ Follow these guidelines when updating the progress tracker table:
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
-|  [Odinga](https://github.com/odingaval)     | Week 7        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         | REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES  |         |
+|  [Odinga](https://github.com/odingaval)     | Week 9       |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Testing of the new changes implemented in progress   |         |
 |  Rose    |         |        |         |         |
-|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      |
+|  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      | &#x2705 (https://github.com/ChainSafe/lodestar/pull/7628/files/a2ce3a92d4e77db076846520e7cefe65f77b9cca..10a1baedf61b1ff9a4a82cfe74582d5624eecc1e)
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
-|  [Victoria](https://github.com/VictoriaAde)   |   Week 8      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Currently struggling with CI and build issues, I sent a message to the loadestar Discord about my problem, waiting for their response     |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x1F6A8;    |
+|  [Victoria](https://github.com/VictoriaAde)   |   Week 9      |   [Lodestar #6488](https://github.com/ChainSafe/lodestar/issues/6488)      |    Pull Request Merged    |    [#7526](https://github.com/ChainSafe/lodestar/pull/7526) &#x2705;    |
 
 &#x1F6E0; – Working on Issue  
 &#x1F680;– Pull Request Open  
