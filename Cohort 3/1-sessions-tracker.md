@@ -13,7 +13,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 7  | Mar 27, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/75) EIP pitching | [Assignment 7](2-progress-tracker.md#week-7-assignment)   | [Recording 7](https://www.youtube.com/watch?v=YaOX5l8nuPo)   |
 | Week 8  | Apr 03, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/91) Justin from Besu - Txn lifecycle | [Assignment 8](2-progress-tracker.md#week-8-assignment) | [Recording 8](https://youtu.be/FfrRJ7CEFHU) |
 | Week 9  | Apr 10, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/105) Rebase | [Assignment 9](2-progress-tracker.md#week-9-assignment) | [Recording 9](https://youtu.be/4GNd8WYIPoI)  |
-| Week 10 | Apr 17, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/112) Josh and Mario from EF - EPF   | [Assignment 10](2-progress-tracker.md#week-10-assignment)           |           |
+| Week 10 | Apr 17, 2025        | [Office Hours:](https://github.com/wiepteam/studygroup/issues/112) Josh and Mario from EF - EPF   | [Assignment 10](2-progress-tracker.md#week-10-assignment) | [Recording 10](https://www.youtube.com/watch?v=YJhViZJEt5I)  |
 | Week 11 | Apr 24, 2025        | [Standup:](https://github.com/wiepteam/studygroup/issues/119) Cohort Retrospective |            |           |
 | Week 12 | May 01, 2025        | Closing Ceremony           |            |           |
 
