@@ -17,7 +17,7 @@ Follow these guidelines when updating the progress tracker table:
 
 | Name/GitHub                                          | Week | Issue | Progress Update | Outcome |
 |------------------------------------------------------|------|-------|-----------------|---------|
-| [WiEP Study Group Fellow](https://github.com/example)| Week 10 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
+| [WiEP Study Group Fellow](https://github.com/example)| Week 9 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
 |  [Barakat](https://github.com/baraqheart)                | Week 8     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | made some changes to prevent writing state to disk since it has no significant impact on it               |     🛠    |
@@ -35,7 +35,7 @@ Follow these guidelines when updating the progress tracker table:
 |  [Maria](https://github.com/marianakibuuka)    |  Week 7       |  [Besu #7704](https://github.com/hyperledger/besu/issues/7704)      | I commented on the issue, now making research on it         |         |
 |  [Mercy](https://github.com/bomanaps)      |    Week 4     |  [Loderstar #5902](https://github.com/ChainSafe/lodestar/issues/5902)       | I have merged the loops for `getAllAncestorNodes` and `getAllNonAncestorNodes` into a single loop. The remaining task is to review the changes before proceeding with `archive.ts`        |         |
 |  [Naomi](https://github.com/naynayu)   |Week 4        |[Lodestar #7367](https://github.com/ChainSafe/lodestar/issues/7367)         | Troubleshooting started. Currently trying to reproduce the ConfigMap issue on Kubernetes STS     |         |
-|  [Odinga](https://github.com/odingaval)     | Week 7        |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         | REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES  |         |
+|  [Odinga](https://github.com/odingaval)     | Week 9       |[Prysm #11978](https://github.com/prysmaticlabs/prysm/issues/11978)         |Testing of the new changes implemented in progress   |         |
 |  Rose    |         |        |         |         |
 |  [Sylvia](https://github.com/SYLVIANNORUKA)  |      Week 8   |    [Lodestar#6490](https://github.com/ChainSafe/lodestar/issues/6490)  |   Made PR again. Expecting review or corrections once more      |   [#6490](https://github.com/ChainSafe/lodestar/pull/7628) &#x1F680;      | &#x2705 (https://github.com/ChainSafe/lodestar/pull/7628/files/a2ce3a92d4e77db076846520e7cefe65f77b9cca..10a1baedf61b1ff9a4a82cfe74582d5624eecc1e)
 |  [Tracy](https://github.com/TracyNabuuma)    |         |        |         |         |
