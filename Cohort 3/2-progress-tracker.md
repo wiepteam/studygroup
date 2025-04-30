@@ -26,8 +26,8 @@ Follow these guidelines when updating the progress tracker table:
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 10     | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | PR got reviewed and changes were requested. Trying to understand and work on it         |    [#7750 PR](https://github.com/ChainSafe/lodestar/pull/7750)   &#x1F680;    |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |       |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
+|  [Ijay](https://github.com/IjayAbby)   | Week 8        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Issue assigned to me        |         |
 |  [Glory](https://github.com/emmaglorypraise)      | Week 10      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on feedback from core developers on open PR   |        [#7744](https://github.com/ChainSafe/lodestar/pull/7744) &#x1F680; |
-|  [Ijay](https://github.com/IjayAbby)   | Week 7        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | REBASE EXERCISE: REPLACE THIS TEXT WITH YOUR UPDATES        |         |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
 |  [Lada](https://github.com/hara-desu) | Week 9 | [consensus-specs #4136](https://github.com/ethereum/consensus-specs/issues/4136), [Lodestar #6991](https://github.com/ChainSafe/lodestar/issues/6991) | Didin't progress since week 8. | [#4156](https://github.com/ethereum/consensus-specs/pull/4156)  &#x2705; |
