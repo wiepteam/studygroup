@@ -29,3 +29,6 @@ EIP‑4788 solves this by giving the EVM a built‑in window into the beacon cha
 [Ethereum Magicians](https://ethereum-magicians.org/t/eip-4788-beacon-root-in-evm/8281)
 
 [ConsenSys Deep Dive by Alex Stokes](https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-3-eip-4788)
+
+
+[Link to EIP 4788](https://eips.ethereum.org/EIPS/eip-4788)
