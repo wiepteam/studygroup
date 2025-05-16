@@ -20,13 +20,13 @@ Follow these guidelines when updating the progress tracker table:
 | [WiEP Study Group Fellow](https://github.com/example)| Week 10 | [Besu #3787](https://github.com/hyperledger/besu/issues/3787), [Lodestar #7599](https://github.com/ChainSafe/lodestar/issues/7559)  | Discussed the issue on GitHub and started writing code. |[#47](https://github.com/wiepteam/studygroup/pull/47) &#x2705;         |
 |  [Arunima](https://github.com/tinniaru3005)    |         |        |         |         |
 |  [Aslı](https://github.com/aslikaya)                |      |       |                |         |
-|  [Barakat](https://github.com/baraqheart)                | Week 9     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | Created a PR and awaiting reviews               |     🛠    |
+|  [Barakat](https://github.com/baraqheart)                | Week 10     | [Prysm #13721](https://github.com/OffchainLabs/prysm/issues/13721)      | working on feedback               |     🛠    |
 |  [Bratipah](https://github.com/Bratipah)              |        |     |                |          |
 |  [Cheryl](https://github.com/Cherrypick14)     |   Week 4      | [Prysm #10648](https://github.com/prysmaticlabs/prysm/issues/10468)        |   Started investigating repeated beacon start requests. Next, adding logs to track frequency and testing a backoff strategy to identify and fix the issue.      |         |
 |  [Dinah](https://github.com/dinahmaccodes)    | Week 10     | [Lodestar #6679](https://github.com/ChainSafe/lodestar/issues/6679)       | PR got reviewed and changes were requested. Trying to understand and work on it         |    [#7750 PR](https://github.com/ChainSafe/lodestar/pull/7750)   &#x1F680;    |
 |  [Doreen](https://github.com/Doreen-Onyango)     |         |       |         |         |
 |  [gconnect](https://github.com/gconnect)   |   Week 4      |   [Teku #9121](https://github.com/Consensys/teku/issues/9121)      |  [PR](https://github.com/Consensys/teku/pull/9155)   awaiting review due to Holesky bug fixes    |        |
-|  [Glory](https://github.com/emmaglorypraise)      | Week 8      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Fixing bugs gotten while working on issue   |        🛠 |
+|  [Glory](https://github.com/emmaglorypraise)      | Week 10      |   [Lodestar #6591](https://github.com/ChainSafe/lodestar/issues/6591)      |   Working on feedback from core developers on open PR   |        [#7744](https://github.com/ChainSafe/lodestar/pull/7744) &#x1F680; |
 |  [Ijay](https://github.com/IjayAbby)   | Week 10        | [Lodestar #3779](https://github.com/ChainSafe/lodestar/issues/3779)        | Made a PR waiting for feedback.        | [#7771](https://github.com/ChainSafe/lodestar/issues/7771)    |
 |  Juliet Olivia    |         |        |         |         |
 |  Koko    |         |        |         |         |
