@@ -15,7 +15,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ### Key Launch Details  
 - **Launch Date**: TBD
-- **Registration**: [Coming Soon]
+- **Registration**: Fill up our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfEay655qNjlMQ9wwsW7uJdxAg3PtOywBCYpoLxIAgD6HseMA/viewform)
 - **Discord**: Join our [Discord community](https://discord.gg/JvEVfKBY6W) for updates
 
 ## Curriculum Highlights

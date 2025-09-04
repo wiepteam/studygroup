@@ -4,24 +4,24 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 
 | Week    | Session Type | Date (TBD) | Topic/Speaker | Agenda & Materials         | Assignment | Recording |
 |---------|--------------|------------|---------------|----------------------------|------------|-----------|
-| Week 1  | Kickoff      | TBD        | Arunima       | [Opening Ceremony & Program Overview](#) |[Assignment 1](2-progress-tracker.md#week-1-assignment) | TBD |
+| Week 1  | Kickoff      | TBD        |   -   | [Opening Ceremony & Program Overview](#) |[Assignment 1](2-progress-tracker.md#week-1-assignment) | TBD |
 | Week 2  | Guest Lecture| TBD        | TBD           | [Ethereum Protocol Fundamentals](#) | [Assignment 2](2-progress-tracker.md#week-2-assignment) | TBD |
 | Week 2  | Stand-up     | TBD        | -             | [Weekly Progress Discussion](#) | - | TBD |
 | Week 3  | Guest Lecture| TBD        | TBD           | [Consensus Layer Specifications](#) | [Assignment 3](2-progress-tracker.md#week-3-assignment) | TBD |
 | Week 3  | Stand-up     | TBD        | -             | [CL Specs Discussion](#) | - | TBD |
-| Week 4  | Guest Lecture| TBD        | Sam Wilson    | [Execution Layer Specifications](#) | [Assignment 4](2-progress-tracker.md#week-4-assignment) | TBD |
+| Week 4  | Guest Lecture| TBD        | TBD | [Execution Layer Specifications](#) | [Assignment 4](2-progress-tracker.md#week-4-assignment) | TBD |
 | Week 4  | Stand-up     | TBD        | -             | [EL Specs & JSON-RPC API](#) | - | TBD |
 | Week 5  | Guest Lecture| TBD        | Pooja         | [Ethereum Improvement Proposals (EIPs)](#) | [Assignment 5](2-progress-tracker.md#week-5-assignment) | TBD |
 | Week 5  | Stand-up     | TBD        | -             | [EIP Analysis & Client Implementation](#) | - | TBD |
 | Week 6  | Guest Lecture| TBD        | TBD           | [Execution Layer Client Architecture](#) | [Assignment 6](2-progress-tracker.md#week-6-assignment) | TBD |
 | Week 6  | Stand-up     | TBD        | -             | [EL Client Deep Dive](#) | - | TBD |
-| Week 7  | Guest Lecture| TBD        | Sammy (Prysm), Matthew (Lodestar) | [Consensus Layer Client Architecture](#) | [Assignment 7](2-progress-tracker.md#week-7-assignment) | TBD |
+| Week 7  | Guest Lecture| TBD        | TBD | [Consensus Layer Client Architecture](#) | [Assignment 7](2-progress-tracker.md#week-7-assignment) | TBD |
 | Week 7  | Stand-up     | TBD        | -             | [CL Client Implementation](#) | - | TBD |
 | Week 8  | Guest Lecture| TBD        | TBD           | [Rust & Cryptography in Ethereum](#) | [Assignment 8](2-progress-tracker.md#week-8-assignment) | TBD |
 | Week 8  | Stand-up     | TBD        | -             | [Cryptography Concepts](#) | - | TBD |
-| Week 9  | Guest Lecture| TBD        | Leo, Csaba, Dankrad Feist | [Sharding & Data Availability Sampling](#) | [Assignment 9](2-progress-tracker.md#week-9-assignment) | TBD |
+| Week 9  | Guest Lecture| TBD        | TBD | [Sharding & Data Availability Sampling](#) | [Assignment 9](2-progress-tracker.md#week-9-assignment) | TBD |
 | Week 9  | Stand-up     | TBD        | -             | [PeerDAS & FullDAS Discussion](#) | - | TBD |
-| Week 10 | Guest Lecture| TBD        | Jitin (Nethermind) | [Solidity, Smart Contracts & DApps](#) | [Assignment 10](2-progress-tracker.md#week-10-assignment) | TBD |
+| Week 10 | Guest Lecture| TBD        | TBD | [Solidity, Smart Contracts & DApps](#) | [Assignment 10](2-progress-tracker.md#week-10-assignment) | TBD |
 | Week 10 | Stand-up     | TBD        | -             | [Smart Contract Integration](#) | - | TBD |
 | Week 11 | Presentations| TBD        | Participants  | [Participant Project Presentations](#) | [Final Presentation](2-progress-tracker.md#week-11-assignment) | TBD |
 | Week 12 | Closing      | TBD        | WiEP Team     | [Closing Ceremony & Retrospective](#) | [Retrospective](2-progress-tracker.md#week-12-assignment) | TBD |
