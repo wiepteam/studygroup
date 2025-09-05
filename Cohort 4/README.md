@@ -71,7 +71,8 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 - TBD
 
 ### Consensus Layer Clients
-- TBD
+- [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm)
+- [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar)
 
 ## Why Join Cohort 4?
 

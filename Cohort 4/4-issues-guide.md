@@ -19,17 +19,17 @@ TBD
 
 ### Execution Layer Clients
 
-| Team | Lang | Mentor | Discord | GitHub Issues | Discord/channel |
+| Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
 |------|------|--------|-----------|--------------|---------|
-| [**Nethermind (EL)**](https://github.com/NethermindEth/nethermind) | C# | TBD | TBD | [Good First Issues](https://github.com/NethermindEth/nethermind/labels/good%20first%20issue) | [Nethermind Discord](https://discord.gg/PaCMRFdvWT) #TBD |
-| [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | TBD | TBD | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) #TBD |
+| [**Nethermind (EL)**](https://github.com/NethermindEth/nethermind) | C# | TBD | TBD | [Good First Issues](https://github.com/NethermindEth/nethermind/labels/good%20first%20issue) | [Nethermind Discord](https://discord.gg/PaCMRFdvWT) |
+| [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | TBD | TBD | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) |
 
 ### Consensus Layer Clients
 
-| Team | Lang | Mentor | Discord | GitHub Issues | Discord/channel |
+| Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
 |------|------|--------|-----------|--------------|---------|
-| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | TBD | TBD | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) #TBD |
-| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | TBD | TBD | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg) #TBD|
+| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | Potuz | potuz | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) |
+| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | Matthew Keil | matthewkeil | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg) |
 
 ---
 
