@@ -28,7 +28,7 @@ TBD
 
 | Team | Lang | Mentor | Discord | GitHub Issues | Discord/channel |
 |------|------|--------|-----------|--------------|---------|
-| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | TBD | TBD | [Good First Issues](https://github.com/prysmaticlabs/prysm/labels/good%20first%20issue) | [Prysm Discord](https://discord.gg/prysmaticlabs) #TBD |
+| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | TBD | TBD | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) #TBD |
 | [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | TBD | TBD | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg) #TBD|
 
 ---
