@@ -9,7 +9,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 2  | Stand-up     | TBD        | -             | [Weekly Progress Discussion](#) | - | TBD |
 | Week 3  | Guest Lecture| TBD        | TBD           | [Consensus Layer Specifications](#) | [Assignment 3](2-progress-tracker.md#week-3-assignment) | TBD |
 | Week 3  | Stand-up     | TBD        | -             | [CL Specs Discussion](#) | - | TBD |
-| Week 4  | Guest Lecture| TBD        | TBD | [Execution Layer Specifications](#) | [Assignment 4](2-progress-tracker.md#week-4-assignment) | TBD |
+| Week 4  | Guest Lecture| TBD        | SamWilsn | [Execution Layer Specifications](#) | [Assignment 4](2-progress-tracker.md#week-4-assignment) | TBD |
 | Week 4  | Stand-up     | TBD        | -             | [EL Specs & JSON-RPC API](#) | - | TBD |
 | Week 5  | Guest Lecture| TBD        | Pooja         | [Ethereum Improvement Proposals (EIPs)](#) | [Assignment 5](2-progress-tracker.md#week-5-assignment) | TBD |
 | Week 5  | Stand-up     | TBD        | -             | [EIP Analysis & Client Implementation](#) | - | TBD |
