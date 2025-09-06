@@ -67,6 +67,11 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ## Client Repositories You'll Work With
 
+### Specs
+
+- [**Ethereum Execution Spec (EELS)**](https://github.com/ethereum/execution-specs)
+- [**Execution Spec Test (EEST)**](https://github.com/ethereum/execution-spec-tests)
+
 ### Execution Layer Clients
 - TBD
 

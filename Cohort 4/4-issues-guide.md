@@ -14,7 +14,7 @@ The following repositories have open issues labeled as `good-first-issue`, which
 | Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
 |------|------|--------|-----------|--------------|---------|
 | [**Ethereum Execution Spec (EELS)**](https://github.com/ethereum/execution-specs) | Python | SamWilsn |  samwilsn | [Good First Issues](https://github.com/ethereum/execution-specs/issues?q=state%3Aopen%20label%3AE-easy) | TBD |
-| [**Execution Spec Test (EEST)**](https://github.com/ethereum/execution-specs/issues?q=state%3Aopen%20label%3AE-easy) | Python | TBD | TBD | [Good First Issues](https://github.com/ethereum/execution-spec-tests/issues) | TBD |
+| [**Execution Spec Test (EEST)**](https://github.com/ethereum/execution-spec-tests) | Python | TBD | TBD | [Good First Issues](https://github.com/ethereum/execution-spec-tests/issues) | TBD |
 
 ### Consensus Layer Specs
 
