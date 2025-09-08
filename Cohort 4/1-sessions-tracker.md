@@ -4,27 +4,27 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 
 | Week    | Session Type | Date | Speaker | Session Topic         | Assignment | Recording |
 |---------|--------------|------------|---------------|----------------------------|------------|-----------|
-| Week 1  | Kickoff      | TBD        |   -   | Opening Ceremony & Program Overview |[Assignment 1](2-progress-tracker.md#week-1-assignment) | TBD |
-| Week 2  | Guest Lecture| TBD        | TBD           | Ethereum Protocol Fundamentals | [Assignment 2](2-progress-tracker.md#week-2-assignment) | TBD |
-| Week 2  | Stand-up     | TBD        | -             | Weekly Progress Discussion | - | TBD |
-| Week 3  | Guest Lecture| TBD        | TBD           | Consensus Layer Specifications | [Assignment 3](2-progress-tracker.md#week-3-assignment) | TBD |
-| Week 3  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 4  | Guest Lecture| TBD        | SamWilsn | Execution Layer Specifications | [Assignment 4](2-progress-tracker.md#week-4-assignment) | TBD |
-| Week 4  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 5  | Guest Lecture| TBD        | Pooja         | Ethereum Improvement Proposals (EIPs) | [Assignment 5](2-progress-tracker.md#week-5-assignment) | TBD |
-| Week 5  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 6  | Guest Lecture| TBD        | TBD           | Execution Layer Client Architecture | [Assignment 6](2-progress-tracker.md#week-6-assignment) | TBD |
-| Week 6  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 7  | Guest Lecture| TBD        | TBD | Consensus Layer Client Architecture | [Assignment 7](2-progress-tracker.md#week-7-assignment) | TBD |
-| Week 7  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 8  | Guest Lecture| TBD        | TBD           | Rust & Cryptography in Ethereum | [Assignment 8](2-progress-tracker.md#week-8-assignment) | TBD |
-| Week 8  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 9  | Guest Lecture| TBD        | TBD | Sharding & Data Availability Sampling | [Assignment 9](2-progress-tracker.md#week-9-assignment) | TBD |
-| Week 9  | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 10 | Guest Lecture| TBD        | TBD | Solidity, Smart Contracts & DApps | [Assignment 10](2-progress-tracker.md#week-10-assignment) | TBD |
-| Week 10 | Stand-up     | TBD        | -             |  Weekly Progress Discussion | - | TBD |
-| Week 11 | Presentations| TBD        | Participants  | Participant Project Presentations | [Final Presentation](2-progress-tracker.md#week-11-assignment) | TBD |
-| Week 12 | Closing      | TBD        | WiEP Team     | Closing Ceremony & Retrospective | [Retrospective](2-progress-tracker.md#week-12-assignment) | TBD |
+| Week 1  | Kickoff      | 11th September 2025 - 16:00 UTC       |   WiEP Team   | Opening Ceremony & Program Overview | - | TBD |
+| Week 2  | Guest Lecture| 18th September 2025 - 16:00 UTC        | Katya           | Ethereum Protocol Fundamentals | TBD | TBD |
+| Week 2  | Stand-up     | 19th September 2025 - 16:00 UTC        | -             | Weekly Progress Discussion | - | - |
+| Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | TBD           | Consensus Layer Specifications | TBD | TBD |
+| Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specifications | TBD  | TBD |
+| Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | Pooja         | Ethereum Improvement Proposals (EIPs) | TBD | TBD |
+| Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | TBD           | Execution Layer Client Architecture | TBD | TBD |
+| Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | Matthew Keil | Consensus Layer Client Architecture | TBD | TBD |
+| Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | TBD           | Rust & Cryptography in Ethereum | TBD | TBD |
+| Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | Sharding & Data Availability Sampling | TBD | TBD |
+| Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 10 | Guest Lecture| 13th November 2025 - 16:00 UTC        | Pooja | EIPs that has be S’FIED for glaos | TBD | TBD |
+| Week 10 | Stand-up     | 14th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
+| Week 11 | Presentations Prep| 20th November 2025 - 16:00 UTC        | -  | Participant Project Presentations | TBD | - |
+| Week 12 | Closing      | 27th November 2025 - 16:00 UTC        | WiEP Team + Participants     | Closing Ceremony & Retrospective | TBD | TBD |
 
 > &#x26A0; Links will be added to the *Agenda* column as sessions are finalized. Recordings and assignments will be added once available.
 

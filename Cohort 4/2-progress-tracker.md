@@ -5,7 +5,7 @@ This document tracks the progress of Cohort 4 participants. Use this tracker to 
 - [Progress Tracker Table](#progress-tracker-table)
 - [Home Assignments](#home-assignments)
 
-## Progress Tracker Table
+## Progress Tracker Table for working on issues
 
 Follow these guidelines when updating the progress tracker table:
 
@@ -22,15 +22,4 @@ Follow these guidelines when updating the progress tracker table:
 
 ## Home Assignments
 
-- [Week 1 Assignment](#week-1-assignment)
-- [Week 2 Assignment](#week-2-assignment)
-- [Week 3 Assignment](#week-3-assignment)
-- [Week 4 Assignment](#week-4-assignment)
-- [Week 5 Assignment](#week-5-assignment)
-- [Week 6 Assignment](#week-6-assignment)
-- [Week 7 Assignment](#week-7-assignment)
-- [Week 8 Assignment](#week-8-assignment)
-- [Week 9 Assignment](#week-9-assignment)
-- [Week 10 Assignment](#week-10-assignment)
-- [Week 11 Assignment](#week-11-assignment)
-- [Week 12 Assignment](#week-12-assignment)
+TBD
