@@ -34,9 +34,11 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 - **Week 3**: [Consensus Layer Specs](https://github.com/ethereum/consensus-specs), [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 - **Week 4**: [Execution Layer Specs](https://github.com/ethereum/execution-specs), [JSON-RPC API](https://ethereum.org/en/developers/docs/apis/json-rpc/)
 - **Week 5**: [EIP-1](https://eips.ethereum.org/EIPS/eip-1), [EIPs GitHub](https://github.com/ethereum/EIPs)
-- **Week 8**: [The Rust Book](https://doc.rust-lang.org/book/), [ZK-SNARKs](https://z.cash/technology/zksnarks/)
-- **Week 9**: [PeerDAS](https://ethereum.github.io/consensus-specs/specs/_features/eip7594/das-core.html), [FullDAS](https://ethresear.ch/), [Ethresear.ch articles](https://ethresear.ch/)
-- **Week 10**: [Solidity Documentation](https://docs.soliditylang.org/)
+- **Week 6**: TDB
+- **Week 7**: TDB
+- **Week 8**: TDB
+- **Week 9**: TDB
+- **Week 10**: TDB
 
 - [Go to Progress Tracker and Home Assignments](./2-progress-tracker.md)
 - [Go to GitHub Guide](./3-github-guide.md)
