@@ -1,4 +1,4 @@
-# Study Group Cohort 4 - Launch Date TBD
+# Study Group Cohort 4
 
 We're excited to announce the upcoming launch of **Study Group Cohort 4**.  
 Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a structured and collaborative learning experience for Ethereum enthusiasts at all levels. You can learn more about our group with [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook).
@@ -14,7 +14,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
   - **Guest Lectures** (1-1.5 hours): Deep-dive talks by protocol developers, researchers, and ecosystem leaders
 
 ### Key Launch Details  
-- **Launch Date**: TBD
+- **Launch Date**: 11th September 2025 - 16:00 UTC
 - **Registration**: Fill up our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfEay655qNjlMQ9wwsW7uJdxAg3PtOywBCYpoLxIAgD6HseMA/viewform)
 - **Discord**: Join our [Discord community](https://discord.gg/JvEVfKBY6W) for updates
 
@@ -71,6 +71,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 - [**Ethereum Execution Spec (EELS)**](https://github.com/ethereum/execution-specs)
 - [**Execution Spec Test (EEST)**](https://github.com/ethereum/execution-spec-tests)
+- [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs)
 
 ### Execution Layer Clients
 - TBD

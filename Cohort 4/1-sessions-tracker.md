@@ -7,7 +7,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 1  | Kickoff      | 11th September 2025 - 16:00 UTC       |   WiEP Team   | Opening Ceremony & Program Overview | - | TBD |
 | Week 2  | Guest Lecture| 18th September 2025 - 16:00 UTC        | Katya           | Ethereum Protocol Fundamentals | TBD | TBD |
 | Week 2  | Stand-up     | 19th September 2025 - 16:00 UTC        | -             | Weekly Progress Discussion | - | - |
-| Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | TBD           | Consensus Layer Specifications | TBD | TBD |
+| Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Maira           | Consensus Layer Specifications | TBD | TBD |
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specifications | TBD  | TBD |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |

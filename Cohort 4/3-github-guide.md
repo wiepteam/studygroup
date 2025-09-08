@@ -104,12 +104,7 @@ When working on Ethereum client projects, you will address specific issues. For 
 
 ### 1. Refer to the Client's Contributor Documentation
 
-Follow the contributor documentation for the client you are working on:
-
-- **[Nethermind Contributor Guide](https://docs.nethermind.io/fundamentals/contributing)**
-- **[Besu Contributor Guide](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154241/First+contribution)**
-- **[Prysm Contributor Guide](https://github.com/prysmaticlabs/prysm/blob/develop/CONTRIBUTING.md)**
-- **[Lodestar Contributor Guide](https://chainsafe.github.io/lodestar/contribution/getting-started)**
+Follow the contributor documentation for the client you are working on.
 
 ### 2. Fork, Clone, and Create a Branch for Each Issue
 
