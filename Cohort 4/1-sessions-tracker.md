@@ -11,17 +11,17 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specifications | TBD  | TBD |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | Pooja         | Ethereum Improvement Proposals (EIPs) | TBD | TBD |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | TBD         | Ethereum Improvement Proposals (EIPs) | TBD | TBD |
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | TBD |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | Matthew Keil | Consensus Layer Client Architecture | TBD | TBD |
+| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | TBD | Consensus Layer Client Architecture | TBD | TBD |
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | TBD           | Rust & Cryptography in Ethereum | TBD | TBD |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | Sharding & Data Availability Sampling | TBD | TBD |
 | Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 10 | Guest Lecture| 13th November 2025 - 16:00 UTC        | Pooja | EIPs that has be S’FIED for glaos | TBD | TBD |
+| Week 10 | Guest Lecture| 13th November 2025 - 16:00 UTC        | TBD | EIPs selected for Glamsterdam upgrade | TBD | TBD |
 | Week 10 | Stand-up     | 14th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 11 | Presentations Prep| 20th November 2025 - 16:00 UTC        | -  | Participant Project Presentations | TBD | - |
 | Week 12 | Closing      | 27th November 2025 - 16:00 UTC        | WiEP Team + Participants     | Closing Ceremony & Retrospective | TBD | TBD |

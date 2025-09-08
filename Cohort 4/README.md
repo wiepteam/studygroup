@@ -24,12 +24,11 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 - Program kickoff and community building
 - Ethereum protocol fundamentals
 
-### Weeks 3-4: Layer Specifications
-- **Week 3**: Consensus Layer (CL) Specifications
-- **Week 4**: Execution Layer (EL) Specifications
+### Weeks 3: TBD
 
-### Week 5: Ethereum Improvement Proposals (EIPs)
-- Deep dive into EIPs process and implementation
+### Week 4: TBD
+
+### Week 5: TBD
 
 ### Weeks 6: Robust Incentives Group
 - Insights from the Ethereum Foundation research team dedicated to the study of protocol mechanisms with the lens of game theory, mechanism design, crypto-economics, formal methods, and data science.
