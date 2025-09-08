@@ -31,20 +31,16 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Week 5: Ethereum Improvement Proposals (EIPs)
 - Deep dive into EIPs process and implementation
 
-### Weeks 6-7: Client Architecture
-- **Week 6**: Execution Layer Client Architecture
-- **Week 7**: Consensus Layer Client Architecture
+### Weeks 6: Robust Incentives Group
+- Insights from the Ethereum Foundation research team dedicated to the study of protocol mechanisms with the lens of game theory, mechanism design, crypto-economics, formal methods, and data science.
 
-### Week 8: Rust & Cryptography
-- Introduction to Rust programming language
-- Cryptographic concepts in Ethereum (SNARKs, signatures, hashing)
+### Week 7: TBD
 
-### Week 9: Advanced Topics - Sharding & DAS
-- Sharding and Data Availability Sampling (DAS)
+### Week 8: TBD
 
-### Week 10: Smart Contracts & DApps Integration
-- Solidity and smart contract fundamentals
-- DApp ecosystem overview
+### Week 9: TBD
+
+### Week 10: TBD
 
 ### Weeks 11-12: Presentations & Wrap-up
 - **Week 11**: Participant project presentations
