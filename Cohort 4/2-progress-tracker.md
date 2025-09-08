@@ -1,9 +1,8 @@
 # Following the Results
 
-This document tracks the progress of Cohort 4 participants. Use this tracker to monitor your issue assignments, log weekly status updates, and track final outcomes.
+This document tracks the progress of Cohort 4 participants. Use this tracker to monitor your issue assignments.
 
-- [Progress Tracker Table](#progress-tracker-table)
-- [Home Assignments](#home-assignments)
+- [Progress Tracker Table for working on issues](#progress-tracker-table)
 
 ## Progress Tracker Table for working on issues
 
@@ -19,7 +18,3 @@ Follow these guidelines when updating the progress tracker table:
 |------------------------------------------------------|--------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example) | [Example Issue](https://github.com/ethereum/go-ethereum/issues/12345)  | Started exploring the codebase and understanding the problem. |🛠️         |
 |  [Your Name](https://github.com/your-username)    |         |        |         |         |
-
-## Home Assignments
-
-TBD
