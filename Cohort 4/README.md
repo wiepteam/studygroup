@@ -42,7 +42,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Week 10: TBD
 
 ### Weeks 11-12: Presentations & Wrap-up
-- **Week 11**: Participant project presentations
+- **Week 11**: Participant project presentations prep
 - **Week 12**: Cohort retrospective and closing ceremony
 
 ## Expected Outcomes & Goals
@@ -69,7 +69,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 - [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs)
 
 ### Execution Layer Clients
-- TBD
+- [**Besu (EL)**](https://github.com/hyperledger/besu)
 
 ### Consensus Layer Clients
 - [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm)
