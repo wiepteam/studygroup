@@ -24,9 +24,10 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 - Program kickoff and community building
 - Ethereum protocol fundamentals
 
-### Weeks 3: TBD
+### Week 3: TBD
 
-### Week 4: TBD
+### Weeks 4: Ethereum Execution Layer Specification (EELS)
+- An introduction to the Ethereum Execution Layer Specification (EELS), covering its role in defining execution logic and client implementations.
 
 ### Week 5: TBD
 
