@@ -31,9 +31,9 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 ## Key Resources for Weekly Topics
 
 - **Week 2**: [Ethereum Docs](https://ethereum.org/en/developers/docs/), [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
-- **Week 3**: [Consensus Layer Specs](https://github.com/ethereum/consensus-specs), [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-- **Week 4**: [Execution Layer Specs](https://github.com/ethereum/execution-specs), [JSON-RPC API](https://ethereum.org/en/developers/docs/apis/json-rpc/)
-- **Week 5**: [EIP-1](https://eips.ethereum.org/EIPS/eip-1), [EIPs GitHub](https://github.com/ethereum/EIPs)
+- **Week 3**: TBD
+- **Week 4**: TBD
+- **Week 5**: TBD
 - **Week 6**: TDB
 - **Week 7**: TDB
 - **Week 8**: TDB
