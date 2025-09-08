@@ -18,7 +18,10 @@ The following repositories have open issues labeled as `good-first-issue`, which
 
 ### Consensus Layer Specs
 
-TBD
+| Team                    | Lang   | Mentor | Discord username | GitHub Issues       | Discord |
+|-------------------------|--------|--------|------------------|---------------------|---------|
+| [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs) | Python | Jtraglia    | jtraglia              | Good First Issues   | TBD     |
+
 
 ### Execution Layer Clients
 
