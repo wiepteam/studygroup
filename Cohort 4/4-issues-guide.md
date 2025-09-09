@@ -27,7 +27,6 @@ The following repositories have open issues labeled as `good-first-issue`, which
 
 | Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
 |------|------|--------|-----------|--------------|---------|
-| [**Nethermind (EL)**](https://github.com/NethermindEth/nethermind) | C# | TBD | TBD | [Good First Issues](https://github.com/NethermindEth/nethermind/labels/good%20first%20issue) | [Nethermind Discord](https://discord.gg/PaCMRFdvWT) |
 | [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | Sally | macfarla | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) |
 
 ### Consensus Layer Clients
