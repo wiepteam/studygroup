@@ -11,7 +11,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | TBD |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | TBD         | Consensus Layer Specs | TBD | TBD |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | TBD |
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | TBD |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
