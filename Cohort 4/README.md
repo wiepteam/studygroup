@@ -72,6 +72,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ### Execution Layer Clients
 - [**Besu (EL)**](https://github.com/hyperledger/besu)
+- [**Geth (EL)**](https://github.com/ethereum/go-ethereum)
 
 ### Consensus Layer Clients
 - [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm)

@@ -28,6 +28,7 @@ The following repositories have open issues labeled as `good-first-issue`, which
 | Team | Lang | Mentor | Discord username | GitHub Issues | Discord/Channel |
 |------|------|--------|-----------|--------------|---------|
 | [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | Sally | macfarla | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) # besu-contributors|
+| [**Geth (EL)**](https://github.com/ethereum/go-ethereum) | Go | Csaba | cskiraly | [Good First Issues](https://github.com/ethereum/go-ethereum/issues?q=is%3Aissue%20state%3Aopen) | TBD |
 
 ### Consensus Layer Clients
 
