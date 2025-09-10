@@ -18,23 +18,24 @@ The following repositories have open issues labeled as `good-first-issue`, which
 
 ### Consensus Layer Specs
 
-| Team                    | Lang   | Mentor | Discord username | GitHub Issues       | Discord |
+| Team                    | Lang   | Mentor | Discord username | GitHub Issues       | Discord/Channel |
 |-------------------------|--------|--------|------------------|---------------------|---------|
 | [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs) | Python | Jtraglia    | jtraglia              | Good First Issues   | TBD     |
 
 
 ### Execution Layer Clients
 
-| Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
+| Team | Lang | Mentor | Discord username | GitHub Issues | Discord/Channel |
 |------|------|--------|-----------|--------------|---------|
-| [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | Sally | macfarla | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) |
+| [**Besu (EL)**](https://github.com/hyperledger/besu) | Java | Sally | macfarla | [Good First Issues](https://github.com/hyperledger/besu/labels/good%20first%20issue) | [Besu Discord](https://discord.gg/hyperledger) # besu-contributors|
 
 ### Consensus Layer Clients
 
-| Team | Lang | Mentor | Discord username | GitHub Issues | Discord |
+| Team | Lang | Mentor | Discord username | GitHub Issues | Discord/Channel |
 |------|------|--------|-----------|--------------|---------|
-| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | Potuz | potuz | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) |
-| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | Matthew Keil | matthewkeil | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg) |
+| [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | Potuz | potuz | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) # 🤝-code-contributions
+|
+| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | Matthew Keil | matthewkeil | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg)  # 🖥-lodestar-developer|
 
 ---
 
