@@ -101,8 +101,9 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 - Potential pathways to protocol development roles
 
 ### &#x1F3C6; **Exclusive Benefits for Top Contributors**
-- **Discounted DevConnect tickets** for participation
-- **Travel support** for conferences (limited availability)
+- **Discounted DevConnect tickets**
+- **Free WiEP DevConnect tickets** 
+- **Travel & stay** limited days in Argentina
 - **Developer Residency opportunities** with Invisible Garden
 - **Direct connections** with client development teams
 - **External contributor opportunities** with major clients
