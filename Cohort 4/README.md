@@ -20,9 +20,11 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ## Curriculum Highlights
 
-### Weeks 1-2: Foundation & Protocol Fundamentals
+### Weeks 1: Kickoff Ceremony
 - Program kickoff and community building
-- Ethereum protocol fundamentals
+
+### Week 2: Ethereum Protocol Fundamentals
+- An introduction to the core building blocks of the Ethereum protocol.
 
 ### Week 3: Consensus Layer Architecture
 - A deep dive into how Ethereum’s consensus layer is structured
@@ -41,7 +43,8 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ### Week 9: TBD
 
-### Week 10: TBD
+### Week 10: Closing Ceremony
+- A wrap-up session with presentations from the WiEP team and participants.
 
 ## Expected Outcomes & Goals
 
