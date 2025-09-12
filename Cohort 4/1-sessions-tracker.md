@@ -1,11 +1,11 @@
 # Sessions tracker
 
-Below is the schedule for all cohort events. Each row corresponds to a weekly session with the agenda, any associated assignment, and recording (if available). The cohort runs for **10-12 weeks** with **2 sessions per week**: Stand-up sessions (1 hr) and Guest Lectures (1-1.5 hr).
+Below is the schedule for all cohort events. Each row corresponds to a weekly session with the agenda, any associated assignment, and recording (if available). The cohort runs for **10 weeks** with **2 sessions per week**: Stand-up sessions (1 hr) and Guest Lectures (1-1.5 hr).
 
 | Week    | Session Type | Date | Speaker | Session Topic         | Assignment | Recording |
 |---------|--------------|------------|---------------|----------------------------|------------|-----------|
 | Week 1  | Kickoff      | 11th September 2025 - 16:00 UTC       |   WiEP Team   | Opening Ceremony & Program Overview | - | TBD |
-| Week 2  | Guest Lecture| 18th September 2025 - 16:00 UTC        | TBD           | Ethereum Protocol Fundamentals | TBD | TBD |
+| Week 2  | Guest Lecture| 18th September 2025 - 15:00 UTC        | Mario Havel           | Ethereum Protocol Fundamentals | TBD | TBD |
 | Week 2  | Stand-up     | 19th September 2025 - 16:00 UTC        | -             | Weekly Progress Discussion | - | - |
 | Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Matthew Keil           | Consensus Layer Architecture | TBD | TBD |
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
@@ -19,12 +19,10 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | TBD           | EIPs | TBD | TBD |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | Sharding & Data Availability Sampling | TBD | TBD |
-| Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 10 | Guest Lecture| 13th November 2025 - 16:00 UTC        | TBD | EIPs selected for Glamsterdam upgrade | TBD | TBD |
-| Week 10 | Stand-up     | 14th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 11 | Presentations Prep| 20th November 2025 - 16:00 UTC        | -  | Participant Project Presentations | TBD | - |
-| Week 12 | Closing      | 27th November 2025 - 16:00 UTC        | WiEP Team + Participants     | Closing Ceremony & Retrospective | TBD | TBD |
+| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | EIPs selected for Glamsterdam upgrade | TBD | TBD |
+| Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion + Start preparing for closing ceremony presentation | - | - |
+| Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | TBD | Presentation Prep | - | - |
+| Week 10 | Closing     | 14th November 2025 - 16:00 UTC        | WiEP Team + Participants             |  Closing Ceremony | - | TBD |
 
 > &#x26A0; Links will be added to the *Agenda* column as sessions are finalized. Recordings and assignments will be added once available.
 

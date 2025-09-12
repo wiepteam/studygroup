@@ -5,10 +5,10 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ## Cohort 4 Overview
 
-**Cohort 4** is designed as a comprehensive **10-12 week program** that takes you deep into the Ethereum protocol, from fundamental concepts to advanced client implementation. This cohort emphasizes hands-on learning through real contributions to Ethereum clients and protocol development.
+**Cohort 4** is designed as a comprehensive **10 week program** that takes you deep into the Ethereum protocol, from fundamental concepts to advanced client implementation. This cohort emphasizes hands-on learning through real contributions to Ethereum clients and protocol development.
 
 ### Program Structure
-- **Duration**: 10-12 weeks
+- **Duration**: 10 weeks
 - **Sessions**: 2 per week
   - **Stand-up Sessions** (1 hour): Weekly progress check-ins, discussion of GitHub issues, and collaborative problem-solving
   - **Guest Lectures** (1-1.5 hours): Deep-dive talks by protocol developers, researchers, and ecosystem leaders
@@ -42,10 +42,6 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Week 9: TBD
 
 ### Week 10: TBD
-
-### Weeks 11-12: Presentations & Wrap-up
-- **Week 11**: Participant project presentations prep
-- **Week 12**: Cohort retrospective and closing ceremony
 
 ## Expected Outcomes & Goals
 
@@ -112,7 +108,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 - **GitHub account** (required)
 - **Strong motivation** to learn about Ethereum protocol
-- **Commitment** to participate actively for 10-12 weeks
+- **Commitment** to participate actively for 10 weeks
 - **English proficiency** for communication and documentation
 
 *If you're newer to coding but highly motivated, we still encourage you to apply!*
