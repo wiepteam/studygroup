@@ -2,6 +2,8 @@
 
 Below is the schedule for all cohort events. Each row corresponds to a weekly session with the agenda, any associated assignment, and recording (if available). The cohort runs for **10 weeks** with **2 sessions per week**: Stand-up sessions (1 hr) and Guest Lectures (1-1.5 hr).
 
+> All assignments will be posted on Google Classroom. Please use [this link]( https://classroom.google.com/c/ODEzNjcwMDE2MjAz?cjc=wtzvgkzb) to join.
+
 | Week    | Session Type | Date | Speaker | Session Topic         | Assignment | Recording |
 |---------|--------------|------------|---------------|----------------------------|------------|-----------|
 | Week 1  | Kickoff      | 11th September 2025 - 16:00 UTC       |   WiEP Team   | Opening Ceremony & Program Overview | - | TBD |
@@ -24,7 +26,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | TBD | Presentation Prep | - | - |
 | Week 10 | Closing     | 14th November 2025 - 16:00 UTC        | WiEP Team + Participants             |  Closing Ceremony | - | TBD |
 
-> &#x26A0; Links will be added to the *Agenda* column as sessions are finalized. Recordings and assignments will be added once available.
+> &#x26A0; Recordings and assignments will be added once available.
 
 ## Key Resources for Weekly Topics
 
