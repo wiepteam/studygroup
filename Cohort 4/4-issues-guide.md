@@ -35,7 +35,7 @@ The following repositories have open issues labeled as `good-first-issue`, which
 | Team | Lang | Mentor | Discord username | GitHub Issues | Discord/Channel |
 |------|------|--------|-----------|--------------|---------|
 | [**Prysm (CL)**](https://github.com/prysmaticlabs/prysm) | Go | Potuz | potuz | [Good First Issues](https://github.com/OffchainLabs/prysm/issues) | [Prysm Discord](https://discord.gg/prysm) # 🤝-code-contributions|
-| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | Matthew Keil | matthewkeil | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg)  # 🖥-lodestar-developer|
+| [**Lodestar (CL)**](https://github.com/ChainSafe/lodestar) | TypeScript | Matthew Keil, Phil | matthewkeil, philngo | [Good First Issues](https://github.com/ChainSafe/lodestar/labels/good%20first%20issue) | [Lodestar Discord](https://discord.com/invite/xSAwrnCWcg)  # 🖥-lodestar-developer|
 
 ---
 
