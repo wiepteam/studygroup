@@ -20,7 +20,7 @@ The following repositories have open issues labeled as `good-first-issue`, which
 
 | Team                    | Lang   | Mentor | Discord username | GitHub Issues       | Discord/Channel |
 |-------------------------|--------|--------|------------------|---------------------|---------|
-| [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs) | Python | Jtraglia    | jtraglia              | [Good First Issues](https://github.com/ethereum/consensus-specs/issues)   | TBD     |
+| [**Ethereum Consensus Spec**](https://github.com/ethereum/consensus-specs) | Python | Jtraglia    | jtraglia              | [Good First Issues](https://github.com/ethereum/consensus-specs/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)   | [WiEP Discord](https://discord.com/channels/1210263494633717800/1416410663189872650)     |
 
 
 ### Execution Layer Clients
