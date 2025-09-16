@@ -32,12 +32,14 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Weeks 4: Ethereum Execution Layer Specification (EELS)
 - An introduction to the Ethereum Execution Layer Specification (EELS), covering its role in defining execution logic and client implementations.
 
-### Week 5: TBD
+### Week 5: Consensus Layer Specs
+- An introduction to the Ethereum Consensus Layer Specification
 
 ### Weeks 6: Robust Incentives Group
 - Insights from the Ethereum Foundation research team dedicated to the study of protocol mechanisms with the lens of game theory, mechanism design, crypto-economics, formal methods, and data science.
 
-### Week 7: TBD
+### Week 7: Execution Layer Client Architecture
+- A deep dive into how Ethereum’s execution layer is structured
 
 ### Week 8: TBD
 
