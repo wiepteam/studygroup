@@ -20,5 +20,6 @@ Follow these guidelines when updating the progress tracker table:
 |  [Your Name](https://github.com/your-username)    |         |        |         |         |
 | [Beulah](https://github.com/Beutife) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6591) | I’ve set up the repo locally and started reviewing the attestation monitoring logic. | In progress |
 | [pheobeayo](https://github.com/pheobeayo) | [Execution spec Issue](https://github.com/ethereum/execution-specs/issues/1437) | I’ve created a PR. | https://github.com/ethereum/execution-specs/pull/1443 |
+| [Khushi-Chaudhary04](https://github.com/Khushi-Chaudhary04) | [Execution spec-test Issue](https://github.com/ethereum/execution-spec-tests/issues/1078) | Created a PR with the new troubleshooting entry; currently awaiting review from maintainers. | Awaiting Review | 
 
 
