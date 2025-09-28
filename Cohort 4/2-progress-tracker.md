@@ -20,5 +20,6 @@ Follow these guidelines when updating the progress tracker table:
 |  [Your Name](https://github.com/your-username)    |         |        |         |         |
 | [Beulah](https://github.com/Beutife) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6591) | I’ve set up the repo locally and started reviewing the attestation monitoring logic. | In progress |
 | [pheobeayo](https://github.com/pheobeayo) | [Execution spec Issue](https://github.com/ethereum/execution-specs/issues/1437) | I’ve created a PR. | https://github.com/ethereum/execution-specs/pull/1443 |
+| [edna-harriet](https://github.com/edna-harriet) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6632)|I’ve set the development environment specifically docker|On going
 
 
