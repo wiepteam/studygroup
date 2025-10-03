@@ -23,4 +23,5 @@ Follow these guidelines when updating the progress tracker table:
 | [edna-harriet](https://github.com/edna-harriet) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6632)|I’ve set the development environment specifically docker|On going
 | [Fatima](https://github.com/phertyameen) | [Support better voluntary exit errors](https://github.com/ChainSafe/lodestar/issues/6330) | Forcked the repo and looking through the code to familiarise myself with the stucture and specificc function related to this issue. | In progress
 | [Deborah](https://github.com/DeborahOlaboye) | [Execution spec Issue](https://github.com/ethereum/execution-specs/issues/1424) | I’ve forked the repo, reviewed the relevant file, made changes and also raised a PR. | [In progress](https://github.com/ethereum/execution-specs/pull/1448)
+| [Bratipah](https://github.com/Bratipah) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/5644)  |  I've started going through the repo locally and ran the light client proxy and the beacon node  | In progress
 
