@@ -26,3 +26,5 @@ Follow these guidelines when updating the progress tracker table:
 | [Bratipah](https://github.com/Bratipah) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/5644)  |  I've started going through the repo locally and ran the light client proxy and the beacon node  | In progress
 | [Khushi-Chaudhary04](https://github.com/Khushi-Chaudhary04) | [Execution spec-test Issue](https://github.com/ethereum/execution-spec-tests/issues/1078) | Created and successfully merged a PR with the new troubleshooting entry. | [Merged PR](https://github.com/ethereum/execution-spec-tests/pull/2214) |
 |[Mercy Oluwatumininu Kolapo](https://github.com/mercykolapo) | [Docc Issue](https://github.com/SamWilsn/docc/issues/27#issue-3488421473) | Forked the repo and trying to understand the codebase. | In progress |
+|[Judith Omega](https://github.com/omegajudith) | [calculate_block_difficulty #1415](https://github.com/ethereum/execution-specs/issues/1415) | Forked the repo and and created Pr|[In progress ](https://github.com/ethereum/execution-specs/pull/1460)| 
+
