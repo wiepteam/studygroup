@@ -17,7 +17,7 @@ Follow these guidelines when updating the progress tracker table:
 | Name/GitHub | Issue | Progress Update | Outcome |
 |------------------------------------------------------|--------|-----------------|---------|
 | [WiEP Study Group Fellow](https://github.com/example) | [Example Issue](https://github.com/ethereum/go-ethereum/issues/12345)  | Started exploring the codebase and understanding the problem. |🛠️         |
-|  [Your Name](https://github.com/your-username)    |         |        |         |         |
+|     |         |        |         |         |
 | [Beulah](https://github.com/Beutife) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6591) | I’ve set up the repo locally and started reviewing the attestation monitoring logic. | In progress |
 | [pheobeayo](https://github.com/pheobeayo) | [Execution spec Issue](https://github.com/ethereum/execution-specs/issues/1437),[Doccs issue](https://github.com/SamWilsn/docc/issues/17), [lodestar issue](https://github.com/ChainSafe/lodestar/issues/7431)| I have created 3 PRs| https://github.com/ethereum/execution-specs/pull/1443 ✅ Merged, https://github.com/SamWilsn/docc/pull/25#pullrequestreview-3299405932, https://github.com/ChainSafe/lodestar/pull/8496 | https://github.com/ethereum/execution-specs/pull/1443#event-20084449434, this PR has been merged while the two others are under review
 | [edna-harriet](https://github.com/edna-harriet) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6632)|I’ve set the development environment specifically docker|On going
