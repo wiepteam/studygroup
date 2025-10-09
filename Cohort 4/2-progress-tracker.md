@@ -27,4 +27,4 @@ Follow these guidelines when updating the progress tracker table:
 | [Khushi-Chaudhary04](https://github.com/Khushi-Chaudhary04) | [Execution spec-test Issue](https://github.com/ethereum/execution-spec-tests/issues/1078) | Created and successfully merged a PR with the new troubleshooting entry. | [Merged PR](https://github.com/ethereum/execution-spec-tests/pull/2214) |
 |[Mercy Oluwatumininu Kolapo](https://github.com/mercykolapo) | [Docc Issue](https://github.com/SamWilsn/docc/issues/27#issue-3488421473) | Forked the repo and trying to understand the codebase. | In progress |
 |[Judith Omega](https://github.com/omegajudith) | [calculate_block_difficulty #1415](https://github.com/ethereum/execution-specs/issues/1415) | Forked the repo and and created Pr|[In progress ](https://github.com/ethereum/execution-specs/pull/1460)| 
-
+|[Anuoluwapo Ali ](https://github.com/Anuoluwapo25) | [Easy to convert test from ethereum/tests  #1016](https://github.com/ethereum/execution-spec-tests/issues/1016) |  Forked the repo and getting familiar with the test files  | In progress
