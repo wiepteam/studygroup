@@ -33,7 +33,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 - **Week 2**: [EPF Wiki Week 0](https://epf.wiki/#/eps/week0), [EPF Wiki Week 1](https://epf.wiki/#/eps/week1), [EPF Wiki](https://epf.wiki/#/), [Ethereum Docs](https://ethereum.org/en/developers/docs/), [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - **Week 3**: TBD
 - **Week 4**: [Ethereum Execution Spec (EELS)](https://github.com/ethereum/execution-specs), [Execution Spec Test (EEST)](https://github.com/ethereum/execution-spec-tests)
-- **Week 5**: [Ethereum Proof-of-Stake Consensus Specifications](https://ethereum.github.io/consensus-specs/)
+- **Week 5**: [Ethereum Proof-of-Stake Consensus Specifications](https://ethereum.github.io/consensus-specs/), [Annotated Specs](https://github.com/ethereum/annotated-spec/), [eth2book](https://eth2book.info/latest/)
 - **Week 6**: TDB
 - **Week 7**: TDB
 - **Week 8**: TDB
