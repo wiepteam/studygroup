@@ -28,3 +28,5 @@ Follow these guidelines when updating the progress tracker table:
 |[Mercy Oluwatumininu Kolapo](https://github.com/mercykolapo) | [Docc Issue](https://github.com/SamWilsn/docc/issues/27#issue-3488421473) | Forked the repo and trying to understand the codebase. | In progress |
 |[Judith Omega](https://github.com/omegajudith) | [calculate_block_difficulty #1415](https://github.com/ethereum/execution-specs/issues/1415) | Forked the repo and and created Pr|[In progress ](https://github.com/ethereum/execution-specs/pull/1460)| 
 |[Anuoluwapo Ali ](https://github.com/Anuoluwapo25) | [Easy to convert test from ethereum/tests  #1016](https://github.com/ethereum/execution-spec-tests/issues/1016) |  Forked the repo and getting familiar with the test files  | In progress
+|[Judith Omega](https://github.com/omegajudith) | [Warnings when running tests #4618](https://github.com/ethereum/consensus-specs/issues/4618) | Forked the repo and and iam in the process of fixing the issue |On Going| 
+
