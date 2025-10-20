@@ -11,11 +11,11 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 2  | Stand-up     | 19th September 2025 - 16:00 UTC        | -             | Weekly Progress Discussion | - | - |
 | Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Matthew Keil           | Consensus Layer Architecture | TBD | [Consensus layer](https://youtu.be/W0LfBtIN1oU?si=9l0MIiR9JU0b18ly) |
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | [Execution specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
+| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | [Execution Layer specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | TBD |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | [Consensus Layer Specs](https://youtu.be/he9qwJKriG8?si=sX8xJw1Nja9Z-ijM) |
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | TBD |
+| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | [Robust Incentives Group](https://youtu.be/KiZ5oXbyqoM?si=ggl5ZukqxKyZC4Ol) | TBD |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | TBD |
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
