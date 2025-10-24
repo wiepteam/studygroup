@@ -41,7 +41,8 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Week 7: Execution Layer Client Architecture
 - A deep dive into how Ethereum’s execution layer is structured
 
-### Week 8: TBD
+### Week 8: EIPs
+- Deep dive into Ethereum Improvement Proposals with Pooja
 
 ### Week 9: TBD
 
