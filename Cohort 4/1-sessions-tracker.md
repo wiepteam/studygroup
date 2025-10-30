@@ -21,7 +21,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | Pooja           | EIPs | TBD | TBD |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | EIPs selected for Glamsterdam upgrade | TBD | TBD |
+| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | TBD | TBD | TBD |
 | Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion + Start preparing for closing ceremony presentation | - | - |
 | Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | - | Presentation Prep | - | - |
 | Week 10 | Closing     | 14th November 2025 - 16:00 UTC        | WiEP Team + Participants             |  Closing Ceremony | - | TBD |
