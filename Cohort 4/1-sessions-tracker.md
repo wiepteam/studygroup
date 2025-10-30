@@ -17,7 +17,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | [Robust Incentives Group](https://youtu.be/KiZ5oXbyqoM?si=ggl5ZukqxKyZC4Ol) |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | TBD |
+| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | [Execution Layer - Geth](https://youtu.be/lI9FcLTvGAM?si=7-DlzWXyk40R3cRu) |
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | Pooja           | EIPs | TBD | TBD |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
