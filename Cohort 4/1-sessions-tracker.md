@@ -43,7 +43,11 @@ MEV letter:
 [Explorer](https://collective.flashbots.net/t/explorer/100), 
 [Sign-up](https://flashbots.net/the-mev-letter)
 - **Week 7**: TDB
-- **Week 8**: TDB
+- **Week 8**: 
+[EIPs website](https://eips.ethereum.org/), 
+[EIPs Insight website](https://eipsinsight.com/), 
+[luma link for EIP Summit at Devconnect ARG](https://luma.com/5lwboseu), 
+[EF Calender](https://calendar.google.com/calendar/u/0/embed?src=c_upaofong8mgrmrkegn7ic7hk5s@group.calendar.google.com)
 - **Week 9**: TDB
 - **Week 10**: TDB
 
