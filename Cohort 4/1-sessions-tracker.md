@@ -42,7 +42,7 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 MEV letter:
 [Explorer](https://collective.flashbots.net/t/explorer/100), 
 [Sign-up](https://flashbots.net/the-mev-letter)
-- **Week 7**: TDB
+- **Week 7**: [Geth docs](https://geth.ethereum.org/docs), [Geth github](https://github.com/ethereum/go-ethereum)
 - **Week 8**: 
 [EIPs website](https://eips.ethereum.org/), 
 [EIPs Insight website](https://eipsinsight.com/), 
