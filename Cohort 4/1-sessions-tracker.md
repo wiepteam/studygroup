@@ -34,7 +34,14 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 - **Week 3**: TBD
 - **Week 4**: [Ethereum Execution Spec (EELS)](https://github.com/ethereum/execution-specs), [Execution Spec Test (EEST)](https://github.com/ethereum/execution-spec-tests)
 - **Week 5**: [Ethereum Proof-of-Stake Consensus Specifications](https://ethereum.github.io/consensus-specs/), [Annotated Specs](https://github.com/ethereum/annotated-spec/), [eth2book](https://eth2book.info/latest/)
-- **Week 6**: TDB
+- **Week 6**: 
+[RIG website](https://rig.ethereum.org/), 
+[Open problems](https://efdn.notion.site/RIG-Open-Problems-ROPs-c11382c213f949a4b89927ef4e962adf), 
+[Intern application link](https://jobs.lever.co/ethereumfoundation/dc609d02-780b-46e8-9d70-42b2e4d0a671)
+
+MEV letter:
+[Explorer](https://collective.flashbots.net/t/explorer/100), 
+[Sign-up](https://flashbots.net/the-mev-letter)
 - **Week 7**: TDB
 - **Week 8**: TDB
 - **Week 9**: TDB
