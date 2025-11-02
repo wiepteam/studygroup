@@ -12,16 +12,17 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Matthew Keil           | Consensus Layer Architecture | TBD | [Consensus layer](https://youtu.be/W0LfBtIN1oU?si=9l0MIiR9JU0b18ly) |
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
 | Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | [Execution specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
+| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | [Execution Layer specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | TBD |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | [Consensus Layer Specs](https://youtu.be/he9qwJKriG8?si=sX8xJw1Nja9Z-ijM) |
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | TBD |
+| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | [Robust Incentives Group](https://youtu.be/KiZ5oXbyqoM?si=ggl5ZukqxKyZC4Ol) |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | TBD |
+| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | [Execution Layer - Geth](https://youtu.be/lI9FcLTvGAM?si=7-DlzWXyk40R3cRu) |
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | TBD           | EIPs | TBD | TBD |
+| Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | Pooja           | EIPs | TBD | [EIPs](https://youtu.be/equE9PjNtZ0?si=4QujMEzBoA86vCcl) |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | EIPs selected for Glamsterdam upgrade | TBD | TBD |
+| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | TBD | TBD | TBD |
 | Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion + Start preparing for closing ceremony presentation | - | - |
 | Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | - | Presentation Prep | - | - |
 | Week 10 | Closing     | 14th November 2025 - 16:00 UTC        | WiEP Team + Participants             |  Closing Ceremony | - | TBD |
@@ -37,6 +38,20 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 - **Week 6**: TDB
 - **Week 7**: TDB
 - **Week 8**: TDB
+- **Week 6**: 
+[RIG website](https://rig.ethereum.org/), 
+[Open problems](https://efdn.notion.site/RIG-Open-Problems-ROPs-c11382c213f949a4b89927ef4e962adf), 
+[Intern application link](https://jobs.lever.co/ethereumfoundation/dc609d02-780b-46e8-9d70-42b2e4d0a671)
+
+MEV letter:
+[Explorer](https://collective.flashbots.net/t/explorer/100), 
+[Sign-up](https://flashbots.net/the-mev-letter)
+- **Week 7**: [Geth docs](https://geth.ethereum.org/docs), [Geth github](https://github.com/ethereum/go-ethereum)
+- **Week 8**: 
+[EIPs website](https://eips.ethereum.org/), 
+[EIPs Insight website](https://eipsinsight.com/), 
+[luma link for EIP Summit at Devconnect ARG](https://luma.com/5lwboseu), 
+[EF Calender](https://calendar.google.com/calendar/u/0/embed?src=c_upaofong8mgrmrkegn7ic7hk5s@group.calendar.google.com)
 - **Week 9**: TDB
 - **Week 10**: TDB
 
