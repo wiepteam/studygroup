@@ -9,23 +9,21 @@ Below is the schedule for all cohort events. Each row corresponds to a weekly se
 | Week 1  | Kickoff      | 11th September 2025 - 16:00 UTC       |   WiEP Team   | Opening Ceremony & Program Overview | - | [Cohort 04 Kick off](https://youtu.be/dMKrgBLE6Io) |
 | Week 2  | Guest Lecture| 18th September 2025 - 15:00 UTC        | Mario Havel           | Ethereum Protocol Fundamentals | [Assignment 1](https://classroom.google.com/c/ODEzNjcwMDE2MjAz/a/ODA2MDA3ODQ2NTk1/details) | [Fundamentals](https://youtu.be/asplwSoi12o?si=mmisgbZvo_4ip120) |
 | Week 2  | Stand-up     | 19th September 2025 - 16:00 UTC        | -             | Weekly Progress Discussion | - | - |
-| Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Matthew Keil           | Consensus Layer Architecture | TBD | [Consensus layer](https://youtu.be/W0LfBtIN1oU?si=9l0MIiR9JU0b18ly) |
+| Week 3  | Guest Lecture| 25th September 2025 - 16:00 UTC         | Matthew Keil           | Consensus Layer Architecture | Work on PRs | [Consensus layer](https://youtu.be/W0LfBtIN1oU?si=9l0MIiR9JU0b18ly) |
 | Week 3  | Stand-up     | 26th September 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | TBD  | [Execution Layer specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
+| Week 4  | Guest Lecture| 2nd October 2025 - 16:00 UTC         | SamWilsn | Execution Layer Specs | Work on PRs  | [Execution Layer specs](https://youtu.be/SCWL-XQw6to?si=g596TKSObTfEpyDV) |
 | Week 4  | Stand-up     | 3rd October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | TBD | [Consensus Layer Specs](https://youtu.be/he9qwJKriG8?si=sX8xJw1Nja9Z-ijM) |
+| Week 5  | Guest Lecture| 9th October 2025 - 16:00 UTC        | jtraglia         | Consensus Layer Specs | Work on PRs | [Consensus Layer Specs](https://youtu.be/he9qwJKriG8?si=sX8xJw1Nja9Z-ijM) |
 | Week 5  | Stand-up     | 10th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | TBD | [Robust Incentives Group](https://youtu.be/KiZ5oXbyqoM?si=ggl5ZukqxKyZC4Ol) |
+| Week 6  | Guest Lecture| 16th October 2025 - 16:00 UTC        | Maria Silva           | Robust Incentives Group | Work on PRs | [Robust Incentives Group](https://youtu.be/KiZ5oXbyqoM?si=ggl5ZukqxKyZC4Ol) |
 | Week 6  | Stand-up     | 17th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | TBD | [Execution Layer - Geth](https://youtu.be/lI9FcLTvGAM?si=7-DlzWXyk40R3cRu) |
+| Week 7  | Guest Lecture| 23rd October 2025 - 16:00 UTC        | MariusVanDerWijden | Execution Layer Client Architecture | Work on PRs | [Execution Layer - Geth](https://youtu.be/lI9FcLTvGAM?si=7-DlzWXyk40R3cRu) |
 | Week 7  | Stand-up     | 24th October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | Pooja           | EIPs | TBD | [EIPs](https://youtu.be/equE9PjNtZ0?si=4QujMEzBoA86vCcl) |
+| Week 8  | Guest Lecture| 30th October 2025 - 16:00 UTC        | Pooja           | EIPs | Work on PRs | [EIPs](https://youtu.be/equE9PjNtZ0?si=4QujMEzBoA86vCcl) |
 | Week 8  | Stand-up     | 31st October 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion | - | - |
-| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | TBD | TBD | TBD | TBD |
+| Week 9  | Guest Lecture| 6th November 2025 - 16:00 UTC        | Justin | How to schedule a hardfork | Work on PRs | TBD |
 | Week 9  | Stand-up     | 7th November 2025 - 16:00 UTC        | -             |  Weekly Progress Discussion + Start preparing for closing ceremony presentation | - | - |
-| Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | - | Presentation Prep | - | - |
-| Week 10 | Closing     | 14th November 2025 - 16:00 UTC        | WiEP Team + Participants             |  Closing Ceremony | - | TBD |
-
+| Week 10 | Presentation Prep | 13th November 2025 - 16:00 UTC        | - |  Closing Ceremony | - | - |
 > &#x26A0; Recordings and assignments will be added once available.
 
 ## Key Resources for Weekly Topics
