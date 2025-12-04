@@ -1,6 +1,6 @@
 # Study Group Cohort 4
 
-We're excited to announce the upcoming launch of **Study Group Cohort 4**.  
+We're excited to announce the upcoming launch of **Study Group Cohort 4**.
 Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a structured and collaborative learning experience for Ethereum enthusiasts at all levels. You can learn more about our group with [WiEP Handbook](https://hackmd.io/@poojaranjan/WiEPHandbook).
 
 ## Cohort 4 Overview
@@ -13,7 +13,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
   - **Stand-up Sessions** (1 hour): Weekly progress check-ins, discussion of GitHub issues, and collaborative problem-solving
   - **Guest Lectures** (1-1.5 hours): Deep-dive talks by protocol developers, researchers, and ecosystem leaders
 
-### Key Launch Details  
+### Key Launch Details
 - **Launch Date**: 11th September 2025 - 16:00 UTC
 - **Registration**: Fill up our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfEay655qNjlMQ9wwsW7uJdxAg3PtOywBCYpoLxIAgD6HseMA/viewform)
 - **Discord**: Join our [Discord community](https://discord.gg/JvEVfKBY6W) for updates
@@ -44,7 +44,9 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 ### Week 8: EIPs
 - Deep dive into Ethereum Improvement Proposals with Pooja
 
-### Week 9: TBD
+### Week 9: How to schedule a hardfork
+
+Understanding why Ethereum hardforks require extensive coordination, how EIPs are selected for upgrades like Glamsterdam, and what tradeoffs arise when balancing security, performance, and decentralization.
 
 ### Week 10: Closing Ceremony
 - A wrap-up session with presentations from the WiEP team and participants.
@@ -104,7 +106,7 @@ Organized by **Women in Ethereum Protocol (WiEP)**, this cohort provides a struc
 
 ### &#x1F3C6; **Exclusive Benefits for Top Contributors**
 - **Discounted DevConnect tickets**
-- **Free WiEP DevConnect tickets** 
+- **Free WiEP DevConnect tickets**
 - **Travel & stay** limited days in Argentina
 - **Developer Residency opportunities** with Invisible Garden
 - **Direct connections** with client development teams
